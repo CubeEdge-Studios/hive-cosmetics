@@ -1,7 +1,7 @@
 {
     "id": "titles/alien-title.json",
     "name": "The Claw",
-    "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/5828cee6-ed5d-4b8f-ac5a-29c2c675bb99/alien_screenshot_1.jpg",
+    "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/3968d78c-5c3d-4cf6-93f1-ac430130075b/alien_screenshot_2.jpg",
     "price": {
         "type": "Minecoins",
         "amount": "310"
