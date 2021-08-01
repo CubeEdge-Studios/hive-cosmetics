@@ -1,3 +1,14 @@
 {
-    "hi": "hi"
+    "id": "2c0e2e6e-0382-44de-bb91-eaf534c4ba08",
+    "name": "Alien Costume",
+    "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/03ec0db2-63d4-407d-8cdd-6acd9ff4373d/alien_Thumbnail_0.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "Do you believe in Aliens? No? Well it's time to start believing!",
+    "source": "Store",
+    "obtainable": true,
+    "data": "N/A",
+    "keywords": "Alien, Space, Green, Suit, Purple"
 }
