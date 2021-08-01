@@ -8,6 +8,7 @@
     },
     "description": "Do you believe in Aliens? No? Well it's time to start believing!",
     "source": "Store",
+    "type": "Costume",
     "obtainable": true,
     "data": "N/A",
     "keywords": "Alien, Space, Green, Suit, Purple"
