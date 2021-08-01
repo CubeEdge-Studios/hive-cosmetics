@@ -1,1 +1,5 @@
-["costumes/alien-costume.json"]
+[
+    "costumes/alien-costume.json",
+    "avatars/alien-avatar.json",
+    "titles/alien-title.json"
+]
