@@ -10,5 +10,8 @@
     "titles/fox-title.json",
     "costumes/burger-costume.json",
     "avatars/burger-avatar.json",
-    "titles/burger-title.json"
+    "titles/burger-title.json",
+    "costumes/pirate-costume.json",
+    "avatars/pirate-avatar.json",
+    "titles/pirate-title.json"
 ]
