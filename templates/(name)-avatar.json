@@ -1,0 +1,16 @@
+{
+    "id": "avatars/(name)-avatar.json",
+    "name": "(avatar name) Avatar",
+    "thumbnail": "(avatar image link)",
+    "price": {
+        "type": "(Minecoins, Quest Points or Rings)",
+        "amount": "(Amount)"
+    },
+    "description": "(avatar description)",
+    "source": "(Store, Quest Master, Other)",
+    "type": "Avatar",
+    "obtainable": "true or false",
+    "date": "(data was released or N/A)",
+    "keywords": "Avatar, (source), (obtainable), (simple terms)",
+    "similar": ["avatar/(name)-avatar.json", "titles/(name)-title.json"]
+}

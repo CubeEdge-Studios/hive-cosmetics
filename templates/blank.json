@@ -1,0 +1,16 @@
+{
+    "id": "avatars/",
+    "name": "",
+    "thumbnail": "",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "",
+    "source": "Store",
+    "type": "",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Avatar, Store, Obtainable, ",
+    "similar": ["costumes/-costume.json", "titles/-title.json"]
+}

@@ -1,0 +1,16 @@
+{
+    "id": "costumes/(name)-costume.json",
+    "name": "(costume name) Costume",
+    "thumbnail": "(costume image link)",
+    "price": {
+        "type": "(Minecoins, Quest Points or Rings)",
+        "amount": "(Amount)"
+    },
+    "description": "(costume description)",
+    "source": "(Store, Quest Master, Other)",
+    "type": "Costume",
+    "obtainable": "true or false",
+    "date": "(data was released or N/A)",
+    "keywords": "Costume, (source), (obtainable), (simple terms)",
+    "similar": ["costumes/(name)-costume.json", "titles/(name)-title.json"]
+}

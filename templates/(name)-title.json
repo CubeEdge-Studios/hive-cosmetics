@@ -1,0 +1,16 @@
+{
+    "id": "titles/(name)-title.json",
+    "name": "(title name) title",
+    "thumbnail": "(title image link)",
+    "price": {
+        "type": "(Minecoins, Quest Points or Rings)",
+        "amount": "(Amount)"
+    },
+    "description": "(title description)",
+    "source": "(Store, Quest Master, Other)",
+    "type": "Title",
+    "obtainable": "true or false",
+    "date": "(data was released or N/A)",
+    "keywords": "Title, (source), (obtainable), (simple terms)",
+    "similar": ["avatar/(name)-avatar.json", "titles/(name)-costume.json"]
+}
