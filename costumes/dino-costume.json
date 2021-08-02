@@ -1,0 +1,16 @@
+{
+    "id": "costumes/dino-costume.json",
+    "name": "Dino Costume",
+    "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/ed5a2a65-d1b1-40f3-b330-2d02e4b80c97/dino_Thumbnail_0.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "Reverse history and become a cute dinosaur today! These majestic creatures will once again walk the earth.",
+    "source": "Store",
+    "type": "Costume",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Costume, Store, Obtainable, Dino, Jurassic, Green, Animal",
+    "similar": ["titles/dino-title.json", "avatars/dino-avatar.json"]
+}

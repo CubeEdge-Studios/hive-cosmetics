@@ -16,5 +16,8 @@
     "titles/pirate-title.json",
     "costumes/unicorn-costume.json",
     "avatars/unicorn-avatar.json",
-    "titles/unicorn-title.json"
+    "titles/unicorn-title.json",
+    "costumes/dino-costume.json",
+    "avatars/dino-avatar.json",
+    "titles/dino-title.json"
 ]
