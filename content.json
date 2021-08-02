@@ -34,5 +34,8 @@
     "titles/teddy-bear-title.json",
     "costumes/strongman-costume.json",
     "avatars/strongman-avatar.json",
-    "titles/strongman-title.json"
+    "titles/strongman-title.json",
+    "costumes/royal-costume.json",
+    "avatars/royal-avatar.json",
+    "titles/royal-title.json"
 ]
