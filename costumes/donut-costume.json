@@ -1,0 +1,16 @@
+{
+    "id": "costumes/donut-costume.json",
+    "name": "Donut Costume",
+    "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/9a0de7aa-e247-49ae-b1e1-8dc87a49be73/donut_Thumbnail_0.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "Give into temptation and indulge your sweet tooth with this delicious Donut costume!",
+    "source": "Store",
+    "type": "Costume",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Costume, Store, Obtainable, Donut, Icing, Pink, Tasty",
+    "similar": ["avatars/donut-avatar.json", "titles/donut-title.json"]
+}

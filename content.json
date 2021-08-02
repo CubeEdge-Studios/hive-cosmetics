@@ -1,5 +1,8 @@
 [
     "costumes/alien-costume.json",
     "avatars/alien-avatar.json",
-    "titles/alien-title.json"
+    "titles/alien-title.json",
+    "costumes/donut-costume.json",
+    "avatars/donut-avatar.json",
+    "titles/donut-title.json"
 ]
