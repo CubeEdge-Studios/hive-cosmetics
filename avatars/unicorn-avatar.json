@@ -1,0 +1,16 @@
+{
+    "id": "avatars/unicorn-avatar.json",
+    "name": "Dabbing Unicorn Avatar",
+    "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/2d439985-d5b6-4c72-b6c9-7d8f1b26b3f8/unicorn_screenshot_1.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "Ride the rainbow with this marvelous, magical, mythical and majestic ensemble.",
+    "source": "Store",
+    "type": "Avatar",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Avatar, Store, Obtainable, Pink, Horn, Animal, Mythic",
+    "similar": ["costumes/unicorn-costume.json", "titles/unicorn-title.json"]
+}
