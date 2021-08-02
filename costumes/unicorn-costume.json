@@ -1,7 +1,7 @@
 {
     "id": "costumes/unicorn-costume.json",
     "name": "Unicorn Costume",
-    "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/2d439985-d5b6-4c72-b6c9-7d8f1b26b3f8/unicorn_screenshot_1.jpg",
+    "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/e01f5390-abc4-4628-a6a3-750e97aead96/unicorn_Thumbnail_0.jpg",
     "price": {
         "type": "Minecoins",
         "amount": "310"
