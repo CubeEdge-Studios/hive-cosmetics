@@ -1,0 +1,16 @@
+{
+    "id": "avatars/gnome-avatar.json",
+    "name": "Gnome Avatar",
+    "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/cd8889db-ccfd-4f65-9ab8-f5bad2e9d0ee/gnome_screenshot_1.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "To gnome or not to gnome… This costume is something you will write gnome about!",
+    "source": "Store",
+    "type": "Avatar",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Avatar, Store, Obtainable, Gnome, Garden, Hat, Blue",
+    "similar": ["costumes/gnome-costume.json", "titles/gnome-title.json"]
+}

@@ -22,5 +22,8 @@
     "titles/dino-title.json",
     "costumes/black-knight-costume.json",
     "avatars/black-knight-avatar.json",
-    "titles/black-knight-title.json"
+    "titles/black-knight-title.json",
+    "costumes/gnome-costume.json",
+    "avatars/gnome-avatar.json",
+    "titles/gnome-title.json"
 ]
