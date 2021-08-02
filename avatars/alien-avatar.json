@@ -11,6 +11,15 @@
     "type": "Avatar",
     "obtainable": true,
     "date": "N/A",
-    "keywords": "Avatar, Store, Obtainable, Alien, Space, Green, Suit, Purple",
+    "keywords": [
+        "Avatar",
+        "Store",
+        "Obtainable",
+        "Alien",
+        "Space",
+        "Green",
+        "Suit",
+        "Purple"
+    ],
     "similar": ["costumes/alien-costume.json", "titles/alien-title.json"]
 }
