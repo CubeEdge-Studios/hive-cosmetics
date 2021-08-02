@@ -25,5 +25,8 @@
     "titles/black-knight-title.json",
     "costumes/gnome-costume.json",
     "avatars/gnome-avatar.json",
-    "titles/gnome-title.json"
+    "titles/gnome-title.json",
+    "costumes/cupid-costume.json",
+    "avatars/cupid-avatar.json",
+    "titles/cupid-title.json"
 ]
