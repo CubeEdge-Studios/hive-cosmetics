@@ -28,5 +28,8 @@
     "titles/gnome-title.json",
     "costumes/cupid-costume.json",
     "avatars/cupid-avatar.json",
-    "titles/cupid-title.json"
+    "titles/cupid-title.json",
+    "costumes/teddy-bear-costume.json",
+    "avatars/teddy-bear-avatar.json",
+    "titles/teddy-bear-title.json"
 ]
