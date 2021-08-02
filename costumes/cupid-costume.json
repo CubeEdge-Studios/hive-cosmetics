@@ -12,5 +12,5 @@
     "obtainable": true,
     "date": "N/A",
     "keywords": "Costume, Store, Obtainable, Cupid, Love, Cloud, Gold",
-    "similar": ["costumes/cupid-costume.json", "avatars/cupid-avatar.json"]
+    "similar": ["titles/cupid-title.json", "avatars/cupid-avatar.json"]
 }
