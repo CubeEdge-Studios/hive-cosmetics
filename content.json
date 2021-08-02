@@ -4,5 +4,8 @@
     "titles/alien-title.json",
     "costumes/donut-costume.json",
     "avatars/donut-avatar.json",
-    "titles/donut-title.json"
+    "titles/donut-title.json",
+    "costumes/pirate-costume.json",
+    "avatars/pirate-avatar.json",
+    "titles/pirate-title.json"
 ]
