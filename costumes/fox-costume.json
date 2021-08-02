@@ -1,0 +1,16 @@
+{
+    "id": "costumes/fox-costume.json",
+    "name": "Fox Costume",
+    "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/c68587de-cfc0-43c6-9e5b-34273545b4c6/fox_Thumbnail_0.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "160"
+    },
+    "description": "Outwit your friends with this furry, lovable Fox costume.",
+    "source": "Store",
+    "type": "Costume",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Costume, Store, Obtainable, Fox, Orange, Ears, Animal",
+    "similar": ["avatars/fox-avatar.json", "titles/fox-title.json"]
+}
