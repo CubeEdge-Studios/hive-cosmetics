@@ -1,0 +1,16 @@
+{
+    "id": "costumes/ducky.json",
+    "name": "Ducky Costume",
+    "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/5173e8b7-413c-4eea-a71d-a85c7b8f7ec2/ducky_Thumbnail_0.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "A duck has found their way into The Hive. Get yours before they waddle away!",
+    "source": "Store",
+    "type": "Costume",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Costume, Store, Obtainable, Duck, Water, Waddle, Quack",
+    "similar": ["avatars/ducky.json", "titles/ducky.json"]
+}
