@@ -1,0 +1,16 @@
+{
+    "id": "costumes/cactus.json",
+    "name": "Cactus Costume",
+    "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/68b1357a-c2c8-456c-ad61-44ae9dcf8cf7/cactus_Thumbnail_0.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "This costume will definitely grow on you! Just stay away from balloons...",
+    "source": "Store",
+    "type": "Costume",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Costume, Store, Obtainable, Cactus, Spikes, Green, Prickly",
+    "similar": ["avatars/cactus.json", "titles/cactus.json"]
+}
