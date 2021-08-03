@@ -1,0 +1,16 @@
+{
+    "id": "titles/banana.json",
+    "name": "\"The Slippery\" Title",
+    "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/be107aaf-c7d8-4d04-a0ea-24e4c7b32933/banana_Thumbnail_0.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "This delicious banana costume is good enough to eat!",
+    "source": "Store",
+    "type": "Title",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Title, Store, Obtainable, Banana, Fruit, Food, Yellow",
+    "similar": ["avatars/banana.json", "costumes/banana.json"]
+}
