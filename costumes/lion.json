@@ -1,7 +1,7 @@
 {
     "id": "costumes/lion.json",
     "name": "Lion Costume",
-    "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/5828cee6-ed5d-4b8f-ac5a-29c2c675bb99/lion_screenshot_1.jpg",
+    "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/ba38f983-7ea6-4793-81d8-b3b9666cdb50/lion_Thumbnail_0.jpg",
     "price": {
         "type": "Minecoins",
         "amount": "310"
