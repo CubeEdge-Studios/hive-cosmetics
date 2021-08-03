@@ -37,5 +37,8 @@
     "titles/strongman.json",
     "costumes/royal.json",
     "avatars/royal.json",
-    "titles/royal.json"
+    "titles/royal.json",
+    "costumes/detective-platypus.json",
+    "avatars/detective-platypus.json",
+    "titles/detective-platypus.json"
 ]
