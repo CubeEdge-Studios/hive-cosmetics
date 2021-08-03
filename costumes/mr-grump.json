@@ -1,0 +1,16 @@
+{
+    "id": "costumes/mr-grump.json",
+    "name": "Mr Grump Costume",
+    "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/d622da6e-b63f-4cde-b754-7c0f35dc3d42/mrgrump_Thumbnail_0.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "The perfect costume for your grumpy days!",
+    "source": "Store",
+    "type": "Costume",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Costume, Store, Obtainable, MrGrump, Grumpy, Cat, Animal",
+    "similar": ["avatars/mr-grump.json", "titles/mr-grump.json"]
+}
