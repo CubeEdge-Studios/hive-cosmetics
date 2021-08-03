@@ -1,0 +1,16 @@
+{
+    "id": "titles/dolphin.json",
+    "name": "\"Hi. I am a dolphin.\" Title",
+    "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/5e4e1468-b277-4c1d-90c3-f2ec3162b932/dolphin_Thumbnail_0.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "You'll be jumping for joy with this adorable dolphin!",
+    "source": "Store",
+    "type": "Title",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Title, Store, Obtainable, Dolphin, Animal, Sea, Nose",
+    "similar": ["costumes/dolphin.json", "avatars/dolphin.json"]
+}
