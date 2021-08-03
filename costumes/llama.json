@@ -1,0 +1,16 @@
+{
+    "id": "costumes/llama.json",
+    "name": "Llama Costume",
+    "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/400f8a9b-5d88-4a73-bc77-454eaf2d3384/llama_Thumbnail_0.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "Haven't you always secretly wanted to be a llama?",
+    "source": "Store",
+    "type": "Costume",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Costume, Store, Obtainable, Llama, Animal, Spit, Fur",
+    "similar": ["avatars/llama.json", "titles/llama.json"]
+}
