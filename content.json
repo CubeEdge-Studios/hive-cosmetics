@@ -37,5 +37,8 @@
     "titles/strongman.json",
     "costumes/royal.json",
     "avatars/royal.json",
-    "titles/royal.json"
+    "titles/royal.json",
+    "costumes/detective-sloth.json",
+    "avatars/detective-sloth.json",
+    "titles/detective-sloth.json"
 ]

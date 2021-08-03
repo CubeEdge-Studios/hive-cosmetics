@@ -1,0 +1,16 @@
+{
+    "id": "titles/detective-sloth.json",
+    "name": "\"The Sleepy\" Title",
+    "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/c19e9356-2f5a-4b9a-80a3-9ae68c2073c5/sloth_Thumbnail_0.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "Who can you trust? We can’t help you, but we know someone who can: Detective Sloth.",
+    "source": "Store",
+    "type": "Title",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Title, Store, Obtainable, Sloth, Detective, Animal, Cute",
+    "similar": ["avatars/detective-sloth.json", "costumes/detective-sloth.json"]
+}
