@@ -1,0 +1,16 @@
+{
+    "id": "titles/wolf.json",
+    "name": "Teddy Bear Title",
+    "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/075fb371-bb61-4c08-bba8-98e4ffeb9f49/wolf_Thumbnail_0.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "Arg-woooooo! It’s time to unleash the beast and join the wolf pack.",
+    "source": "Store",
+    "type": "Title",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Title, Store, Obtainable, Wolf, Animal, Bad, Pack",
+    "similar": ["avatars/wolf.json", "costumes/wolf.json"]
+}
