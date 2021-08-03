@@ -1,0 +1,16 @@
+{
+    "id": "costumes/dragon.json",
+    "name": "Dragon Costume",
+    "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/b70f7aae-8a81-4eb0-b4b0-ee2b2c321f3a/dragon_Thumbnail_0.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "Hot off the press! Grab yourself this dragon costume and become clawsome!",
+    "source": "Store",
+    "type": "Costume",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Costume, Store, Obtainable, Dragon, Fire, Hot, Purple",
+    "similar": ["avatars/dragon.json", "titles/dragon.json"]
+}
