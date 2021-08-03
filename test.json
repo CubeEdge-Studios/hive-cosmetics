@@ -1,0 +1,1769 @@
+[
+    {
+        "id": "costumes/alien.json",
+        "name": "Alien Costume",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/03ec0db2-63d4-407d-8cdd-6acd9ff4373d/alien_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Do you believe in Aliens? No? Well it's time to start believing!",
+        "source": "Store",
+        "type": "Costume",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Costume, Store, Obtainable, Alien, Space, Green, Purple",
+        "similar": [
+            "avatars/alien.json",
+            "titles/alien.json"
+        ]
+    },
+    {
+        "id": "avatars/alien.json",
+        "name": "Alien Avatar",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/5828cee6-ed5d-4b8f-ac5a-29c2c675bb99/alien_screenshot_1.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Do you believe in Aliens? No? Well it's time to start believing!",
+        "source": "Store",
+        "type": "Avatar",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Avatar, Store, Obtainable, Alien, Space, Green, Purple",
+        "similar": [
+            "costumes/alien.json",
+            "titles/alien.json"
+        ]
+    },
+    {
+        "id": "titles/alien.json",
+        "name": "\"The Claw\" Title",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/3968d78c-5c3d-4cf6-93f1-ac430130075b/alien_screenshot_2.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Do you believe in Aliens? No? Well it's time to start believing!",
+        "source": "Store",
+        "type": "Title",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Title, Store, Obtainable, Alien, Space, Green, Purple",
+        "similar": [
+            "costumes/alien.json",
+            "avatars/alien.json"
+        ]
+    },
+    {
+        "id": "costumes/donut.json",
+        "name": "Donut Costume",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/9a0de7aa-e247-49ae-b1e1-8dc87a49be73/donut_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Give into temptation and indulge your sweet tooth with this delicious Donut costume!",
+        "source": "Store",
+        "type": "Costume",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Costume, Store, Obtainable, Donut, Icing, Pink, Tasty",
+        "similar": [
+            "avatars/donut.json",
+            "titles/donut.json"
+        ]
+    },
+    {
+        "id": "avatars/donut.json",
+        "name": "Cute Donut Avatar",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/6ee3a97e-aeb7-464e-8f3c-fe1386448b11/donut_screenshot_1.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Give into temptation and indulge your sweet tooth with this delicious Donut costume!",
+        "source": "Store",
+        "type": "Avatar",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Avatar, Store, Obtainable, Donut, Icing, Pink, Tasty",
+        "similar": [
+            "costumes/donut.json",
+            "titles/donut.json"
+        ]
+    },
+    {
+        "id": "titles/donut.json",
+        "name": "\"The Holey One\" Title",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/a0693d6c-60ed-42f9-a230-a331bcea92e4/donut_screenshot_2.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Give into temptation and indulge your sweet tooth with this delicious Donut costume!",
+        "source": "Store",
+        "type": "Title",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Title, Store, Obtainable, Donut, Icing, Pink, Tasty",
+        "similar": [
+            "avatars/donut.json",
+            "costumes/donut.json"
+        ]
+    },
+    {
+        "id": "costumes/fox.json",
+        "name": "Fox Costume",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/c68587de-cfc0-43c6-9e5b-34273545b4c6/fox_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "160"
+        },
+        "description": "Outwit your friends with this furry, lovable Fox costume.",
+        "source": "Store",
+        "type": "Costume",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Costume, Store, Obtainable, Fox, Orange, Ears, Animal",
+        "similar": [
+            "avatars/fox.json",
+            "titles/fox.json"
+        ]
+    },
+    {
+        "id": "avatars/fox.json",
+        "name": "Fox Avatar",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/8c09e052-83ee-4bc0-887d-319fcfa62c21/fox_screenshot_1.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "160"
+        },
+        "description": "Outwit your friends with this furry, lovable Fox costume.",
+        "source": "Store",
+        "type": "Avatar",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Avatar, Store, Obtainable, Fox, Orange, Ears, Animal",
+        "similar": [
+            "costumes/fox.json",
+            "titles/fox.json"
+        ]
+    },
+    {
+        "id": "titles/fox.json",
+        "name": "\"The Crazy Fox\" Title",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/828f4089-b7ce-4261-9c82-36fb3fcc59e3/fox_screenshot_2.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "160"
+        },
+        "description": "Outwit your friends with this furry, lovable Fox costume.",
+        "source": "Store",
+        "type": "Title",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Title, Store, Obtainable, Fox, Orange, Ears, Animal",
+        "similar": [
+            "costumes/fox.json",
+            "avatars/fox.json"
+        ]
+    },
+    {
+        "id": "costumes/burger.json",
+        "name": "Burger Costume",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/4fe8e3c6-544c-41d5-9d70-2752b757820c/burger_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Order up! Get your hands on this juicy costume while you can!",
+        "source": "Store",
+        "type": "Costume",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Costume, Store, Obtainable, Burger, Food, Chef, Tasty",
+        "similar": [
+            "avatars/burger.json",
+            "titles/burger.json"
+        ]
+    },
+    {
+        "id": "avatars/burger.json",
+        "name": "Cute Burger Avatar",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/f9e5f8ca-4fee-4a23-81b3-83a1bd318b27/burger_screenshot_1.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Order up! Get your hands on this juicy costume while you can!",
+        "source": "Store",
+        "type": "Avatar",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Avatar, Store, Obtainable, Burger, Food, Chef, Tasty",
+        "similar": [
+            "costumes/burger.json",
+            "titles/burger.json"
+        ]
+    },
+    {
+        "id": "titles/burger.json",
+        "name": "\"The Burger Chef\" Title",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/6bc0e71b-0f0e-430e-8668-e0e6ae2e36f7/burger_screenshot_2.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Order up! Get your hands on this juicy costume while you can!",
+        "source": "Store",
+        "type": "Title",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Title, Store, Obtainable, Burger, Food, Chef, Tasty",
+        "similar": [
+            "costumes/burger.json",
+            "avatars/burger.json"
+        ]
+    },
+    {
+        "id": "costumes/pirate.json",
+        "name": "Pirate Costume",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/97af74cc-806b-4ccc-b995-e8c6dbde3f51/pirate_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Yarrrrr! Become the bravest pirate on the Hive. These costumes will guarantee you sail to victory.",
+        "source": "Store",
+        "type": "Costume",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Costume, Store, Obtainable, Pirate, Sea, Boat, Sail",
+        "similar": [
+            "avatars/pirate.json",
+            "titles/pirate.json"
+        ]
+    },
+    {
+        "id": "avatars/pirate.json",
+        "name": "Pirate Ship Avatar",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/bb817b75-b650-4abe-a029-49289e4e52bd/pirate_screenshot_1.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Yarrrrr! Become the bravest pirate on the Hive. These costumes will guarantee you sail to victory.",
+        "source": "Store",
+        "type": "Avatar",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Avatar, Store, Obtainable, Pirate, Sea, Boat, Sail",
+        "similar": [
+            "costumes/pirate.json",
+            "titles/pirate.json"
+        ]
+    },
+    {
+        "id": "titles/pirate.json",
+        "name": "\"The Jolly Roger\" Title",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/563be2c1-74cb-4579-a67c-2a1c3a40fe6e/pirate_screenshot_2.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Yarrrrr! Become the bravest pirate on the Hive. These costumes will guarantee you sail to victory.",
+        "source": "Store",
+        "type": "Title",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Title, Store, Obtainable, Pirate, Sea, Boat, Sail",
+        "similar": [
+            "costumes/pirate.json",
+            "avatars/pirate.json"
+        ]
+    },
+    {
+        "id": "costumes/unicorn.json",
+        "name": "Unicorn Costume",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/e01f5390-abc4-4628-a6a3-750e97aead96/unicorn_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Ride the rainbow with this marvelous, magical, mythical and majestic ensemble.",
+        "source": "Store",
+        "type": "Costume",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Costume, Store, Obtainable, Pink, Horn, Animal, Mythic",
+        "similar": [
+            "avatars/unicorn.json",
+            "titles/unicorn.json"
+        ]
+    },
+    {
+        "id": "avatars/unicorn.json",
+        "name": "Dabbing Unicorn Avatar",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/2d439985-d5b6-4c72-b6c9-7d8f1b26b3f8/unicorn_screenshot_1.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Ride the rainbow with this marvelous, magical, mythical and majestic ensemble.",
+        "source": "Store",
+        "type": "Avatar",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Avatar, Store, Obtainable, Pink, Horn, Animal, Mythic",
+        "similar": [
+            "costumes/unicorn.json",
+            "titles/unicorn.json"
+        ]
+    },
+    {
+        "id": "titles/unicorn.json",
+        "name": "\"The Rainbow\" Title",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/3ecb45d3-b232-45d6-b3fd-7bd03d82720e/unicorn_screenshot_2.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Ride the rainbow with this marvelous, magical, mythical and majestic ensemble.",
+        "source": "Store",
+        "type": "Title",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Title, Store, Obtainable, Pink, Horn, Animal, Mythic",
+        "similar": [
+            "costumes/unicorn.json",
+            "titles/unicorn.json"
+        ]
+    },
+    {
+        "id": "costumes/dino.json",
+        "name": "Dino Costume",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/ed5a2a65-d1b1-40f3-b330-2d02e4b80c97/dino_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Reverse history and become a cute dinosaur today! These majestic creatures will once again walk the earth.",
+        "source": "Store",
+        "type": "Costume",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Costume, Store, Obtainable, Dino, Jurassic, Green, Animal",
+        "similar": [
+            "titles/dino.json",
+            "avatars/dino.json"
+        ]
+    },
+    {
+        "id": "avatars/dino.json",
+        "name": "Dino Avatar",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/329bfadd-79bb-424a-914f-781cba5f1294/dino_screenshot_1.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Reverse history and become a cute dinosaur today! These majestic creatures will once again walk the earth.",
+        "source": "Store",
+        "type": "Avatar",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Avatar, Store, Obtainable, Dino, Jurassic, Green, Animal",
+        "similar": [
+            "titles/dino.json",
+            "costumes/dino.json"
+        ]
+    },
+    {
+        "id": "titles/dino.json",
+        "name": "\"The Rawrsome\" Title",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/953391c5-f878-4857-ae81-5e9c3d996425/dino_screenshot_2.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Reverse history and become a cute dinosaur today! These majestic creatures will once again walk the earth.",
+        "source": "Store",
+        "type": "Title",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Title, Store, Obtainable, Dino, Jurassic, Green, Animal",
+        "similar": [
+            "costumes/dino.json",
+            "avatars/dino.json"
+        ]
+    },
+    {
+        "id": "costumes/black-knight.json",
+        "name": "Black Knight Costume",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/eb897981-6299-4265-97c2-5a482d69232e/blackknight_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "As the sun sets and the moon rises, the Black Knight emerges from the shadows, ready to protect anyone who may need him.",
+        "source": "Store",
+        "type": "Costume",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Costume, Store, Obtainable, Knight, Black, Fight, Castle",
+        "similar": [
+            "titles/black-knight.json",
+            "avatars/black-knight.json"
+        ]
+    },
+    {
+        "id": "avatars/black-knight.json",
+        "name": "Knight Avatar",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/74135383-f13d-4b00-9d03-2323060bdce1/blackknight_screenshot_1.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "As the sun sets and the moon rises, the Black Knight emerges from the shadows, ready to protect anyone who may need him.",
+        "source": "Store",
+        "type": "Avatar",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Avatar, Store, Obtainable, Knight, Black, Fight, Castle",
+        "similar": [
+            "costumes/black-knight.json",
+            "titles/black-knight.json"
+        ]
+    },
+    {
+        "id": "titles/black-knight.json",
+        "name": "\"The Black Knight\" Title",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/94140581-7340-4446-a6e8-595f684a85c5/blackknight_screenshot_2.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "As the sun sets and the moon rises, the Black Knight emerges from the shadows, ready to protect anyone who may need him.",
+        "source": "Store",
+        "type": "Title",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Title, Store, Obtainable, Knight, Black, Fight, Castle",
+        "similar": [
+            "costumes/black-knight.json",
+            "avatars/black-knight.json"
+        ]
+    },
+    {
+        "id": "costumes/gnome.json",
+        "name": "Gnome Costume",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/a1a23e08-525b-4b87-93b3-208beca9d03d/gnome_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "To gnome or not to gnome… This costume is something you will write gnome about!",
+        "source": "Store",
+        "type": "Costume",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Costume, Store, Obtainable, Gnome, Garden, Hat, Blue",
+        "similar": [
+            "avatars/gnome.json",
+            "titles/gnome.json"
+        ]
+    },
+    {
+        "id": "avatars/gnome.json",
+        "name": "Gnome Avatar",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/cd8889db-ccfd-4f65-9ab8-f5bad2e9d0ee/gnome_screenshot_1.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "To gnome or not to gnome… This costume is something you will write gnome about!",
+        "source": "Store",
+        "type": "Avatar",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Avatar, Store, Obtainable, Gnome, Garden, Hat, Blue",
+        "similar": [
+            "costumes/gnome.json",
+            "titles/gnome.json"
+        ]
+    },
+    {
+        "id": "titles/gnome.json",
+        "name": "\"Gnomeland Security\" Title",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/eaee71c3-4c61-4b1c-a28c-01508f377d89/gnome_screenshot_2.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "To gnome or not to gnome… This costume is something you will write gnome about!",
+        "source": "Store",
+        "type": "Title",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Title, Store, Obtainable, Gnome, Garden, Hat, Blue",
+        "similar": [
+            "avatars/gnome.json",
+            "costumes/gnome.json"
+        ]
+    },
+    {
+        "id": "costumes/cupid.json",
+        "name": "Cupid Costume",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/58a0992a-05d5-40f1-8bf1-c60c2195e715/cupid_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Love is in the air! Lead your friends to victory with this Cupid Squad Leader costume!",
+        "source": "Store",
+        "type": "Costume",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Costume, Store, Obtainable, Cupid, Love, Cloud, Gold",
+        "similar": [
+            "titles/cupid.json",
+            "avatars/cupid.json"
+        ]
+    },
+    {
+        "id": "avatars/cupid.json",
+        "name": "Pink Bear Avatar",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/0469e71e-0f5e-477e-b9b1-a27834c63bc3/cupid_screenshot_1.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Love is in the air! Lead your friends to victory with this Cupid Squad Leader costume!",
+        "source": "Store",
+        "type": "Avatar",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Avatar, Store, Obtainable, Cupid, Love, Cloud, Gold",
+        "similar": [
+            "costumes/cupid.json",
+            "titles/cupid.json"
+        ]
+    },
+    {
+        "id": "titles/cupid.json",
+        "name": "\"The Squad leader\" Title",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/82ad8311-eb5e-41c2-8ad4-a62359f31d85/cupid_screenshot_2.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Love is in the air! Lead your friends to victory with this Cupid Squad Leader costume!",
+        "source": "Store",
+        "type": "Title",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Title, Store, Obtainable, Cupid, Love, Cloud, Gold",
+        "similar": [
+            "costumes/cupid.json",
+            "avatars/cupid.json"
+        ]
+    },
+    {
+        "id": "costumes/teddy-bear.json",
+        "name": "Teddy Bear Costume",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/4ba990ac-846d-42a1-b970-d5d609054c1f/teddybear_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Be the softest, most huggable person with this fuzzy Teddy Bear costume!",
+        "source": "Store",
+        "type": "Costume",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Costume, Store, Obtainable, Bear, Pink, Love, Animal",
+        "similar": [
+            "titles/teddy-bear.json",
+            "avatars/teddy-bear.json"
+        ]
+    },
+    {
+        "id": "avatars/teddy-bear.json",
+        "name": "Teddy Bear Title",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/51cd2d85-3d46-4503-9b72-56cd4aa21c11/teddybear_screenshot_1.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Be the softest, most huggable person with this fuzzy Teddy Bear costume!",
+        "source": "Store",
+        "type": "Avatar",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Avatar, Store, Obtainable, Bear, Pink, Love, Animal",
+        "similar": [
+            "costumes/teddy-bear.json",
+            "titles/teddy-bear.json"
+        ]
+    },
+    {
+        "id": "titles/teddy-bear.json",
+        "name": "\"The Huggable\" Title",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/4338173b-4f6a-45b7-8b7f-8cff8ef47e5c/teddybear_screenshot_2.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Be the softest, most huggable person with this fuzzy Teddy Bear costume!",
+        "source": "Store",
+        "type": "Title",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Title, Store, Obtainable, Bear, Pink, Love, Animal",
+        "similar": [
+            "costumes/teddy-bear.json",
+            "avatars/teddy-bear.json"
+        ]
+    },
+    {
+        "id": "costumes/strongman.json",
+        "name": "Strongman Costume",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/9e968478-ee40-407d-ba4e-c8c3557f239a/strongman_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Who’s the strongest person on The Hive? You will be with this strongman costume!",
+        "source": "Store",
+        "type": "Costume",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Costume, Store, Obtainable, Strong, Sports, Mustache, Man",
+        "similar": [
+            "avatars/strongman.json",
+            "titles/strongman.json"
+        ]
+    },
+    {
+        "id": "avatars/strongman.json",
+        "name": "Gold Medal Avatar",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/9e968478-ee40-407d-ba4e-c8c3557f239a/strongman_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Who’s the strongest person on The Hive? You will be with this strongman costume!",
+        "source": "Store",
+        "type": "Avatar",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Avatar, Store, Obtainable, Strong, Sports, Mustache, Man",
+        "similar": [
+            "costumes/strongman.json",
+            "titles/strongman.json"
+        ]
+    },
+    {
+        "id": "titles/strongman.json",
+        "name": "\"The Strong\" Title",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/9e968478-ee40-407d-ba4e-c8c3557f239a/strongman_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Who’s the strongest person on The Hive? You will be with this strongman costume!",
+        "source": "Store",
+        "type": "Title",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Title, Store, Obtainable, Strong, Sports, Mustache, Man",
+        "similar": [
+            "avatars/strongman.json",
+            "costumes/strongman.json"
+        ]
+    },
+    {
+        "id": "costumes/royal.json",
+        "name": "Royal Costume",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/17635531-c687-43e3-aa77-99a23a269f90/royal_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "It’s time to take the throne with these Royal King and Queen costumes!",
+        "source": "Store",
+        "type": "Costume",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Costume, Store, Obtainable, Royal, King, Queen, Crown",
+        "similar": [
+            "titles/royal.json",
+            "avatars/royal.json"
+        ]
+    },
+    {
+        "id": "avatars/royal.json",
+        "name": "Crown Avatar",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/ab8056f0-41cd-4aaa-b84d-7aa835551629/royal_screenshot_1.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "It’s time to take the throne with these Royal King and Queen costumes!",
+        "source": "Store",
+        "type": "Avatar",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Avatar, Store, Obtainable, Royal, King, Queen, Crown",
+        "similar": [
+            "titles/royal.json",
+            "costumes/royal.json"
+        ]
+    },
+    {
+        "id": "titles/royal.json",
+        "name": "\"The Royal\" Title",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/b814312a-846b-42fd-96bd-82a10984c1e6/royal_screenshot_2.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "It’s time to take the throne with these Royal King and Queen costumes!",
+        "source": "Store",
+        "type": "Title",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Title, Store, Obtainable, Royal, King, Queen, Crown",
+        "similar": [
+            "costumes/royal.json",
+            "avatars/royal.json"
+        ]
+    },
+    {
+        "id": "costumes/detective-sloth.json",
+        "name": "Detective Sloth Costume",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/c19e9356-2f5a-4b9a-80a3-9ae68c2073c5/sloth_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Who can you trust? We can’t help you, but we know someone who can: Detective Sloth.",
+        "source": "Store",
+        "type": "Costume",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Costume, Store, Obtainable, Sloth, Detective, Animal, Cute",
+        "similar": [
+            "avatars/detective-sloth.json",
+            "titles/detective-sloth.json"
+        ]
+    },
+    {
+        "id": "avatars/detective-sloth.json",
+        "name": "Blepping Sloth Avatar",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/c19e9356-2f5a-4b9a-80a3-9ae68c2073c5/sloth_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Who can you trust? We can’t help you, but we know someone who can: Detective Sloth.",
+        "source": "Store",
+        "type": "Avatar",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Avatar, Store, Obtainable, Sloth, Detective, Animal, Cute",
+        "similar": [
+            "costumes/detective-sloth.json",
+            "titles/detective-sloth.json"
+        ]
+    },
+    {
+        "id": "titles/detective-sloth.json",
+        "name": "\"The Sleepy\" Title",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/c19e9356-2f5a-4b9a-80a3-9ae68c2073c5/sloth_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Who can you trust? We can’t help you, but we know someone who can: Detective Sloth.",
+        "source": "Store",
+        "type": "Title",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Title, Store, Obtainable, Sloth, Detective, Animal, Cute",
+        "similar": [
+            "avatars/detective-sloth.json",
+            "costumes/detective-sloth.json"
+        ]
+    },
+    {
+        "id": "costumes/wolf.json",
+        "name": "Teddy Bear Title",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/075fb371-bb61-4c08-bba8-98e4ffeb9f49/wolf_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Arg-woooooo! It’s time to unleash the beast and join the wolf pack.",
+        "source": "Store",
+        "type": "Costume",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Costume, Store, Obtainable, Wolf, Animal, Bad, Pack",
+        "similar": [
+            "avatars/wolf.json",
+            "titles/wolf.json"
+        ]
+    },
+    {
+        "id": "avatars/wolf.json",
+        "name": "Teddy Bear Title",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/075fb371-bb61-4c08-bba8-98e4ffeb9f49/wolf_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Arg-woooooo! It’s time to unleash the beast and join the wolf pack.",
+        "source": "Store",
+        "type": "Avatar",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Avatar, Store, Obtainable, Wolf, Animal, Bad, Pack",
+        "similar": [
+            "costumes/wolf.json",
+            "titles/wolf.json"
+        ]
+    },
+    {
+        "id": "titles/wolf.json",
+        "name": "\"Big Bad Wolf\" Title",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/075fb371-bb61-4c08-bba8-98e4ffeb9f49/wolf_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Arg-woooooo! It’s time to unleash the beast and join the wolf pack.",
+        "source": "Store",
+        "type": "Title",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Title, Store, Obtainable, Wolf, Animal, Bad, Pack",
+        "similar": [
+            "avatars/wolf.json",
+            "costumes/wolf.json"
+        ]
+    },
+    {
+        "id": "costumes/clown.json",
+        "name": "Clown Costume",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/243b94ed-687d-4568-ac09-f54df6349e42/clown_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Roll up! Roll up! Get your tickets to the greatest show in town. The circus is here!",
+        "source": "Store",
+        "type": "Costume",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Title, Store, Obtainable, Clown, Circus, Hat, Red Nose",
+        "similar": [
+            "titles/clown.json",
+            "avatars/clown.json"
+        ]
+    },
+    {
+        "id": "avatars/clown.json",
+        "name": "Clown Avatar",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/243b94ed-687d-4568-ac09-f54df6349e42/clown_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Roll up! Roll up! Get your tickets to the greatest show in town. The circus is here!",
+        "source": "Store",
+        "type": "Avatar",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Avatar, Store, Obtainable, Clown, Circus, Hat, Red Nose",
+        "similar": [
+            "titles/clown.json",
+            "costumes/clown.json"
+        ]
+    },
+    {
+        "id": "titles/clown.json",
+        "name": "\"The Joker\" Title",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/243b94ed-687d-4568-ac09-f54df6349e42/clown_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Roll up! Roll up! Get your tickets to the greatest show in town. The circus is here!",
+        "source": "Store",
+        "type": "Title",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Title, Store, Obtainable, Clown, Circus, Hat, Red Nose",
+        "similar": [
+            "costumes/clown.json",
+            "avatars/clown.json"
+        ]
+    },
+    {
+        "id": "costumes/detective-platypus.json",
+        "name": "Detective Platypus Costume",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/08ebeacd-abcb-4db3-869c-125e5365bb68/playpus_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "This perfect platypus will use their poise and patience to solve any puzzle that crosses their path.",
+        "source": "Store",
+        "type": "Costume",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Costume, Store, Obtainable, Platypus, Detective, Animal, Parry",
+        "similar": [
+            "avatars/detective-platypus.json",
+            "titles/detective-platypus.json"
+        ]
+    },
+    {
+        "id": "avatars/detective-platypus.json",
+        "name": "Platypus Avatar",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/08ebeacd-abcb-4db3-869c-125e5365bb68/playpus_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "This perfect platypus will use their poise and patience to solve any puzzle that crosses their path.",
+        "source": "Store",
+        "type": "Avatar",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Costume, Store, Obtainable, Platypus, Detective, Animal, Parry",
+        "similar": [
+            "costumes/detective-platypus.json",
+            "titles/detective-platypus.json"
+        ]
+    },
+    {
+        "id": "titles/detective-platypus.json",
+        "name": "\"The Platypus\" Title",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/08ebeacd-abcb-4db3-869c-125e5365bb68/playpus_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "This perfect platypus will use their poise and patience to solve any puzzle that crosses their path.",
+        "source": "Store",
+        "type": "Title",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Costume, Store, Obtainable, Platypus, Detective, Animal, Parry",
+        "similar": [
+            "costumes/detective-platypus.json",
+            "avatars/detective-platypus.json"
+        ]
+    },
+    {
+        "id": "costumes/dragon.json",
+        "name": "Dragon Costume",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/b70f7aae-8a81-4eb0-b4b0-ee2b2c321f3a/dragon_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Hot off the press! Grab yourself this dragon costume and become clawsome!",
+        "source": "Store",
+        "type": "Costume",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Costume, Store, Obtainable, Dragon, Fire, Hot, Purple",
+        "similar": [
+            "avatars/dragon.json",
+            "titles/dragon.json"
+        ]
+    },
+    {
+        "id": "avatars/dragon.json",
+        "name": "Dragon Eye Avatar",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/b70f7aae-8a81-4eb0-b4b0-ee2b2c321f3a/dragon_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Hot off the press! Grab yourself this dragon costume and become clawsome!",
+        "source": "Store",
+        "type": "Avatar",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Avatar, Store, Obtainable, Dragon, Fire, Hot, Purple",
+        "similar": [
+            "costumes/dragon.json",
+            "titles/dragon.json"
+        ]
+    },
+    {
+        "id": "titles/dragon.json",
+        "name": "\"The Fire Breather\" Title",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/b70f7aae-8a81-4eb0-b4b0-ee2b2c321f3a/dragon_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Hot off the press! Grab yourself this dragon costume and become clawsome!",
+        "source": "Store",
+        "type": "Title",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Title, Store, Obtainable, Dragon, Fire, Hot, Purple",
+        "similar": [
+            "avatars/dragon.json",
+            "costumes/dragon.json"
+        ]
+    },
+    {
+        "id": "costumes/ducky.json",
+        "name": "Ducky Costume",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/5173e8b7-413c-4eea-a71d-a85c7b8f7ec2/ducky_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "A duck has found their way into The Hive. Get yours before they waddle away!",
+        "source": "Store",
+        "type": "Costume",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Costume, Store, Obtainable, Duck, Water, Waddle, Quack",
+        "similar": [
+            "avatars/ducky.json",
+            "titles/ducky.json"
+        ]
+    },
+    {
+        "id": "avatars/ducky.json",
+        "name": "Rich Duck Avatar",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/5173e8b7-413c-4eea-a71d-a85c7b8f7ec2/ducky_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "A duck has found their way into The Hive. Get yours before they waddle away!",
+        "source": "Store",
+        "type": "Avatar",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Avatar, Store, Obtainable, Duck, Water, Waddle, Quack",
+        "similar": [
+            "costumes/ducky.json",
+            "titles/ducky.json"
+        ]
+    },
+    {
+        "id": "titles/ducky.json",
+        "name": "\"The Quackers\" Title",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/5173e8b7-413c-4eea-a71d-a85c7b8f7ec2/ducky_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "A duck has found their way into The Hive. Get yours before they waddle away!",
+        "source": "Store",
+        "type": "Title",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Title, Store, Obtainable, Duck, Water, Waddle, Quack",
+        "similar": [
+            "avatars/ducky.json",
+            "costumes/ducky.json"
+        ]
+    },
+    {
+        "id": "costumes/genie.json",
+        "name": "Genie Costume",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/3dbadc11-759c-4965-b30d-edc2c1630811/genie_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "It’s time to grant wishes with this mystical, magical and mysterious genie costume.",
+        "source": "Store",
+        "type": "Costume",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Costume, Store, Obtainable, Genie, Mystical, Magical, Mysterious",
+        "similar": [
+            "avatars/genie.json",
+            "titles/genie.json"
+        ]
+    },
+    {
+        "id": "avatars/genie.json",
+        "name": "Genie Avatar",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/3dbadc11-759c-4965-b30d-edc2c1630811/genie_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "It’s time to grant wishes with this mystical, magical and mysterious genie costume.",
+        "source": "Store",
+        "type": "Avatar",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Avatar, Store, Obtainable, Genie, Mystical, Magical, Mysterious",
+        "similar": [
+            "costumes/genie.json",
+            "titles/genie.json"
+        ]
+    },
+    {
+        "id": "titles/genie.json",
+        "name": "\"The Wish Maker\" Ttile",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/3dbadc11-759c-4965-b30d-edc2c1630811/genie_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "It’s time to grant wishes with this mystical, magical and mysterious genie costume.",
+        "source": "Store",
+        "type": "Title",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Title, Store, Obtainable, Genie, Mystical, Magical, Mysterious",
+        "similar": [
+            "avatars/genie.json",
+            "costumes/genie.json"
+        ]
+    },
+    {
+        "id": "costumes/panda.json",
+        "name": "Panda Costume",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/926ab73f-be12-45ae-8b57-360882887c65/panda_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Normally a panda just wants to sit down and eat bamboo… but not this panda! This panda is ready to defeat any and all minigames!",
+        "source": "Store",
+        "type": "Costume",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Costume, Store, Obtainable, Panda, Bamboo, Green, Jungle",
+        "similar": [
+            "avatars/panda.json",
+            "titles/panda.json"
+        ]
+    },
+    {
+        "id": "avatars/panda.json",
+        "name": "Panda Avatar",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/926ab73f-be12-45ae-8b57-360882887c65/panda_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Normally a panda just wants to sit down and eat bamboo… but not this panda! This panda is ready to defeat any and all minigames!",
+        "source": "Store",
+        "type": "Avatar",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Avatar, Store, Obtainable, Panda, Bamboo, Green, Jungle",
+        "similar": [
+            "costumes/panda.json",
+            "titles/panda.json"
+        ]
+    },
+    {
+        "id": "titles/panda.json",
+        "name": "\"The Bamboo Eater\" Title",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/926ab73f-be12-45ae-8b57-360882887c65/panda_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Normally a panda just wants to sit down and eat bamboo… but not this panda! This panda is ready to defeat any and all minigames!",
+        "source": "Store",
+        "type": "Title",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Title, Store, Obtainable, Panda, Bamboo, Green, Jungle",
+        "similar": [
+            "avatars/panda.json",
+            "costumes/panda.json"
+        ]
+    },
+    {
+        "id": "costumes/lion.json",
+        "name": "Lion Costume",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/ba38f983-7ea6-4793-81d8-b3b9666cdb50/lion_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Roar? ROAR!",
+        "source": "Store",
+        "type": "Costume",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Costume, Store, Obtainable, Lion, Africa, Roar, Animal",
+        "similar": [
+            "avatars/lion.json",
+            "titles/lion.json"
+        ]
+    },
+    {
+        "id": "avatars/lion.json",
+        "name": "Lion Avatar",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/ba38f983-7ea6-4793-81d8-b3b9666cdb50/lion_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Roar? ROAR!",
+        "source": "Store",
+        "type": "Avatar",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Avatar, Store, Obtainable, Lion, Africa, Roar, Animal",
+        "similar": [
+            "costumes/lion.json",
+            "titles/lion.json"
+        ]
+    },
+    {
+        "id": "titles/lion.json",
+        "name": "\"The Lion\" Costume",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/ba38f983-7ea6-4793-81d8-b3b9666cdb50/lion_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Roar? ROAR!",
+        "source": "Store",
+        "type": "Title",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Title, Store, Obtainable, Lion, Africa, Roar, Animal",
+        "similar": [
+            "avatars/lion.json",
+            "costumes/lion.json"
+        ]
+    },
+    {
+        "id": "costumes/giraffe.json",
+        "name": "Giraffe Costume",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/8cdcc002-0ee1-46a2-9459-153469dab55f/giraffe_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Fresh out of the zoo! This cute giraffe is ready to be the next minigame champion.",
+        "source": "Store",
+        "type": "Costume",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Costume, Store, Obtainable, Giraffe, Tall, Animal, Africa",
+        "similar": [
+            "avatars/giraffe.json",
+            "titles/giraffe.json"
+        ]
+    },
+    {
+        "id": "avatars/giraffe.json",
+        "name": "Giraffe Avatar",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/8cdcc002-0ee1-46a2-9459-153469dab55f/giraffe_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Fresh out of the zoo! This cute giraffe is ready to be the next minigame champion.",
+        "source": "Store",
+        "type": "Avatar",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Avatar, Store, Obtainable, Giraffe, Tall, Animal, Africa",
+        "similar": [
+            "costumes/giraffe.json",
+            "titles/giraffe.json"
+        ]
+    },
+    {
+        "id": "titles/giraffe.json",
+        "name": "\"The Tallest\" Title",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/8cdcc002-0ee1-46a2-9459-153469dab55f/giraffe_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Fresh out of the zoo! This cute giraffe is ready to be the next minigame champion.",
+        "source": "Store",
+        "type": "Title",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Title, Store, Obtainable, Giraffe, Tall, Animal, Africa",
+        "similar": [
+            "avatars/giraffe.json",
+            "costumes/giraffe.json"
+        ]
+    },
+    {
+        "id": "costumes/leprechaun.json",
+        "name": "Leprechaun Costume",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/8c704052-3e66-4220-b76b-0f54ec15023a/leprechaun_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "With his four-leaf clover equipped, this leprechaun is ready to spread good luck across The Hive!",
+        "source": "Store",
+        "type": "Costume",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Costume, Store, Obtainable, Leprechaun, Lucky, Green, Rainbow",
+        "similar": [
+            "avatars/leprechaun.json",
+            "titles/leprechaun.json"
+        ]
+    },
+    {
+        "id": "avatars/leprechaun.json",
+        "name": "Pot of Gold Avatar",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/8c704052-3e66-4220-b76b-0f54ec15023a/leprechaun_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "With his four-leaf clover equipped, this leprechaun is ready to spread good luck across The Hive!",
+        "source": "Store",
+        "type": "Avatar",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Avatar, Store, Obtainable, Leprechaun, Lucky, Green, Rainbow",
+        "similar": [
+            "costumes/leprechaun.json",
+            "titles/leprechaun.json"
+        ]
+    },
+    {
+        "id": "titles/leprechaun.json",
+        "name": "\"The Lucky\" Title",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/8c704052-3e66-4220-b76b-0f54ec15023a/leprechaun_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "With his four-leaf clover equipped, this leprechaun is ready to spread good luck across The Hive!",
+        "source": "Store",
+        "type": "Title",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Title, Store, Obtainable, Leprechaun, Lucky, Green, Rainbow",
+        "similar": [
+            "avatars/leprechaun.json",
+            "costumes/leprechaun.json"
+        ]
+    },
+    {
+        "id": "costumes/bear.json",
+        "name": "Bear Costume",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/770b165b-7733-4f81-a5ab-8e36b3eaf81b/bear_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "What type of bear will you be? Big and scary or cute and cuddly?",
+        "source": "Store",
+        "type": "Costume",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Costume, Store, Obtainable, Bear, Cuddly, Hairy, Big",
+        "similar": [
+            "avatars/bear.json",
+            "titles/bear.json"
+        ]
+    },
+    {
+        "id": "avatars/bear.json",
+        "name": "Bear Avatar",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/770b165b-7733-4f81-a5ab-8e36b3eaf81b/bear_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "What type of bear will you be? Big and scary or cute and cuddly?",
+        "source": "Store",
+        "type": "Avatar",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Avatar, Store, Obtainable, Bear, Cuddly, Hairy, Big",
+        "similar": [
+            "costumes/bear.json",
+            "titles/bear.json"
+        ]
+    },
+    {
+        "id": "titles/bear.json",
+        "name": "\"The Hairy\" Title",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/770b165b-7733-4f81-a5ab-8e36b3eaf81b/bear_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "What type of bear will you be? Big and scary or cute and cuddly?",
+        "source": "Store",
+        "type": "Title",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Title, Store, Obtainable, Bear, Cuddly, Hairy, Big",
+        "similar": [
+            "avatars/bear.json",
+            "costumes/bear.json"
+        ]
+    },
+    {
+        "id": "costumes/llama.json",
+        "name": "Llama Costume",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/400f8a9b-5d88-4a73-bc77-454eaf2d3384/llama_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Haven't you always secretly wanted to be a llama?",
+        "source": "Store",
+        "type": "Costume",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Costume, Store, Obtainable, Llama, Animal, Spit, Fur",
+        "similar": [
+            "avatars/llama.json",
+            "titles/llama.json"
+        ]
+    },
+    {
+        "id": "avatars/llama.json",
+        "name": "Cool Llama Avatar",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/400f8a9b-5d88-4a73-bc77-454eaf2d3384/llama_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Haven't you always secretly wanted to be a llama?",
+        "source": "Store",
+        "type": "Avatar",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Avatar, Store, Obtainable, Llama, Animal, Spit, Fur",
+        "similar": [
+            "costumes/llama.json",
+            "titles/llama.json"
+        ]
+    },
+    {
+        "id": "titles/llama.json",
+        "name": "\"The Lovely Llama\" Title",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/400f8a9b-5d88-4a73-bc77-454eaf2d3384/llama_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "Haven't you always secretly wanted to be a llama?",
+        "source": "Store",
+        "type": "Title",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Title, Store, Obtainable, Llama, Animal, Spit, Fur",
+        "similar": [
+            "avatars/llama.json",
+            "costumes/llama.json"
+        ]
+    },
+    {
+        "id": "costumes/goldfish.json",
+        "name": "Goldfish Costume",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/66829562-e68a-42aa-adb1-ef54863bff78/goldfish_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "There's something fishy about this costume...",
+        "source": "Store",
+        "type": "Costume",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Costume, Store, Obtainable, Goldfish, Animal, Sea, Tank",
+        "similar": [
+            "titles/goldfish.json",
+            "avatars/goldfish.json"
+        ]
+    },
+    {
+        "id": "avatars/goldfish.json",
+        "name": "Goldfish Avatar",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/66829562-e68a-42aa-adb1-ef54863bff78/goldfish_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "There's something fishy about this costume...",
+        "source": "Store",
+        "type": "Avatar",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Avatar, Store, Obtainable, Goldfish, Animal, Sea, Tank",
+        "similar": [
+            "titles/goldfish.json",
+            "costumes/goldfish.json"
+        ]
+    },
+    {
+        "id": "titles/goldfish.json",
+        "name": "\"ASCII Fish\" Title",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/66829562-e68a-42aa-adb1-ef54863bff78/goldfish_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "There's something fishy about this costume...",
+        "source": "Store",
+        "type": "Title",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Title, Store, Obtainable, Goldfish, Animal, Sea, Tank",
+        "similar": [
+            "costumes/goldfish.json",
+            "avatars/goldfish.json"
+        ]
+    },
+    {
+        "id": "costumes/cactus.json",
+        "name": "Cactus Costume",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/68b1357a-c2c8-456c-ad61-44ae9dcf8cf7/cactus_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "This costume will definitely grow on you! Just stay away from balloons...",
+        "source": "Store",
+        "type": "Costume",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Costume, Store, Obtainable, Cactus, Spikes, Green, Prickly",
+        "similar": [
+            "avatars/cactus.json",
+            "titles/cactus.json"
+        ]
+    },
+    {
+        "id": "avatars/cactus.json",
+        "name": "Adorable Cactus Avatar",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/68b1357a-c2c8-456c-ad61-44ae9dcf8cf7/cactus_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "This costume will definitely grow on you! Just stay away from balloons...",
+        "source": "Store",
+        "type": "Avatar",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Avatar, Store, Obtainable, Cactus, Spikes, Green, Prickly",
+        "similar": [
+            "costumes/cactus.json",
+            "titles/cactus.json"
+        ]
+    },
+    {
+        "id": "titles/cactus.json",
+        "name": "\"The Spikey\" Title",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/68b1357a-c2c8-456c-ad61-44ae9dcf8cf7/cactus_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "This costume will definitely grow on you! Just stay away from balloons...",
+        "source": "Store",
+        "type": "Title",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Title, Store, Obtainable, Cactus, Spikes, Green, Prickly",
+        "similar": [
+            "avatars/cactus.json",
+            "costumes/cactus.json"
+        ]
+    },
+    {
+        "id": "costumes/dolphin.json",
+        "name": "Dolphin Costume",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/5e4e1468-b277-4c1d-90c3-f2ec3162b932/dolphin_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "You'll be jumping for joy with this adorable dolphin!",
+        "source": "Store",
+        "type": "Costume",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Costume, Store, Obtainable, Dolphin, Animal, Sea, Nose",
+        "similar": [
+            "titles/dolphin.json",
+            "avatars/dolphin.json"
+        ]
+    },
+    {
+        "id": "avatars/dolphin.json",
+        "name": "Cute Dolphin Avatar",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/5e4e1468-b277-4c1d-90c3-f2ec3162b932/dolphin_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "You'll be jumping for joy with this adorable dolphin!",
+        "source": "Store",
+        "type": "Avatar",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Avatar, Store, Obtainable, Dolphin, Animal, Sea, Nose",
+        "similar": [
+            "titles/dolphin.json",
+            "costumes/dolphin.json"
+        ]
+    },
+    {
+        "id": "titles/dolphin.json",
+        "name": "\"Hi. I am a dolphin.\" Title",
+        "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/5e4e1468-b277-4c1d-90c3-f2ec3162b932/dolphin_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "You'll be jumping for joy with this adorable dolphin!",
+        "source": "Store",
+        "type": "Title",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Title, Store, Obtainable, Dolphin, Animal, Sea, Nose",
+        "similar": [
+            "costumes/dolphin.json",
+            "avatars/dolphin.json"
+        ]
+    },
+    {
+        "id": "costumes/mr-grump.json",
+        "name": "Mr Grump Costume",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/d622da6e-b63f-4cde-b754-7c0f35dc3d42/mrgrump_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "The perfect costume for your grumpy days!",
+        "source": "Store",
+        "type": "Costume",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Costume, Store, Obtainable, MrGrump, Grumpy, Cat, Animal",
+        "similar": [
+            "avatars/mr-grump.json",
+            "titles/mr-grump.json"
+        ]
+    },
+    {
+        "id": "avatars/mr-grump.json",
+        "name": "Mr Grump Avatar",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/d622da6e-b63f-4cde-b754-7c0f35dc3d42/mrgrump_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "The perfect costume for your grumpy days!",
+        "source": "Store",
+        "type": "Avatar",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Avatar, Store, Obtainable, MrGrump, Grumpy, Cat, Animal",
+        "similar": [
+            "costumes/mr-grump.json",
+            "titles/mr-grump.json"
+        ]
+    },
+    {
+        "id": "titles/mr-grump.json",
+        "name": "\"The Grumpy\" Title",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/d622da6e-b63f-4cde-b754-7c0f35dc3d42/mrgrump_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "The perfect costume for your grumpy days!",
+        "source": "Store",
+        "type": "Title",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Title, Store, Obtainable, MrGrump, Grumpy, Cat, Animal",
+        "similar": [
+            "avatars/mr-grump.json",
+            "costumes/mr-grump.json"
+        ]
+    },
+    {
+        "id": "costumes/banana.json",
+        "name": "Banana Costumes",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/be107aaf-c7d8-4d04-a0ea-24e4c7b32933/banana_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "This delicious banana costume is good enough to eat!",
+        "source": "Store",
+        "type": "Costume",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Costume, Store, Obtainable, Banana, Fruit, Food, Yellow",
+        "similar": [
+            "avatars/banana.json",
+            "titles/banana.json"
+        ]
+    },
+    {
+        "id": "avatars/banana.json",
+        "name": "Cool Banana Avatar",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/be107aaf-c7d8-4d04-a0ea-24e4c7b32933/banana_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "This delicious banana costume is good enough to eat!",
+        "source": "Store",
+        "type": "Avatar",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Avatar, Store, Obtainable, Banana, Fruit, Food, Yellow",
+        "similar": [
+            "costumes/banana.json",
+            "titles/banana.json"
+        ]
+    },
+    {
+        "id": "titles/banana.json",
+        "name": "\"The Slippery\" Title",
+        "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/be107aaf-c7d8-4d04-a0ea-24e4c7b32933/banana_Thumbnail_0.jpg",
+        "price": {
+            "type": "Minecoins",
+            "amount": "310"
+        },
+        "description": "This delicious banana costume is good enough to eat!",
+        "source": "Store",
+        "type": "Title",
+        "obtainable": true,
+        "date": "N/A",
+        "keywords": "Title, Store, Obtainable, Banana, Fruit, Food, Yellow",
+        "similar": [
+            "avatars/banana.json",
+            "costumes/banana.json"
+        ]
+    }
+]
