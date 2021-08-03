@@ -82,5 +82,8 @@
     "titles/goldfish.json",
     "costumes/cactus.json",
     "avatars/cactus.json",
-    "titles/cactus.json"
+    "titles/cactus.json",
+    "costumes/dolphin.json",
+    "avatars/dolphin.json",
+    "titles/dolphin.json"
 ]
