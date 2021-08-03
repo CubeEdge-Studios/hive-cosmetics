@@ -1,0 +1,16 @@
+{
+    "id": "avatars/bear.json",
+    "name": "Bear Avatar",
+    "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/770b165b-7733-4f81-a5ab-8e36b3eaf81b/bear_Thumbnail_0.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "What type of bear will you be? Big and scary or cute and cuddly?",
+    "source": "Store",
+    "type": "Avatar",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Avatar, Store, Obtainable, Bear, Cuddly, Hairy, Big",
+    "similar": ["costumes/bear.json", "titles/bear.json"]
+}
