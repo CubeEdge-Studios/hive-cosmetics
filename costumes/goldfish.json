@@ -1,0 +1,16 @@
+{
+    "id": "costumes/goldfish.json",
+    "name": "Goldfish Costume",
+    "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/66829562-e68a-42aa-adb1-ef54863bff78/goldfish_Thumbnail_0.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "There's something fishy about this costume...",
+    "source": "Store",
+    "type": "Costume",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Costume, Store, Obtainable, Goldfish, Animal, Sea, Tank",
+    "similar": ["titles/goldfish.json", "avatars/goldfish.json"]
+}
