@@ -1,0 +1,16 @@
+{
+    "id": "costumes/detective-platypus.json",
+    "name": "Detective Platypus Costume",
+    "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/08ebeacd-abcb-4db3-869c-125e5365bb68/playpus_Thumbnail_0.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "This perfect platypus will use their poise and patience to solve any puzzle that crosses their path.",
+    "source": "Store",
+    "type": "Costume",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Costume, Store, Obtainable, Platypus, Detective, Animal, Parry",
+    "similar": ["avatars/detective-platypus.json", "titles/detective-platypus.json"]
+}

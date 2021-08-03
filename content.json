@@ -46,5 +46,11 @@
     "titles/wolf.json",
     "costumes/clown.json",
     "avatars/clown.json",
-    "titles/clown.json"
+    "titles/clown.json",
+    "costumes/detective-platypus.json",
+    "avatars/detective-platypus.json",
+    "titles/detective-platypus.json",
+    "costumes/dragon.json",
+    "avatars/dragon.json",
+    "titles/dragon.json"
 ]
