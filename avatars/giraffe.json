@@ -1,0 +1,16 @@
+{
+    "id": "avatars/giraffe.json",
+    "name": "Giraffe Avatar",
+    "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/8cdcc002-0ee1-46a2-9459-153469dab55f/giraffe_Thumbnail_0.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "Fresh out of the zoo! This cute giraffe is ready to be the next minigame champion.",
+    "source": "Store",
+    "type": "Avatar",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Avatar, Store, Obtainable, Giraffe, Tall, Animal, Africa",
+    "similar": ["costumes/giraffe.json", "titles/giraffe.json"]
+}

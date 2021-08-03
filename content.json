@@ -61,5 +61,8 @@
     "titles/panda.json",
     "costumes/lion.json",
     "avatars/lion.json",
-    "titles/lion.json"
+    "titles/lion.json",
+    "costumes/giraffe.json",
+    "avatars/giraffe.json",
+    "titles/giraffe.json"
 ]
