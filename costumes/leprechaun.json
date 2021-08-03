@@ -1,0 +1,16 @@
+{
+    "id": "costumes/leprechaun.json",
+    "name": "Leprechaun Costume",
+    "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/8c704052-3e66-4220-b76b-0f54ec15023a/leprechaun_Thumbnail_0.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "With his four-leaf clover equipped, this leprechaun is ready to spread good luck across The Hive!",
+    "source": "Store",
+    "type": "Costume",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Costume, Store, Obtainable, Leprechaun, Lucky, Green, Rainbow",
+    "similar": ["avatars/leprechaun.json", "titles/leprechaun.json"]
+}
