@@ -1,0 +1,16 @@
+{
+    "id": "costumes/teddy-bear.json",
+    "name": "Teddy Bear Costume",
+    "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/4ba990ac-846d-42a1-b970-d5d609054c1f/teddybear_Thumbnail_0.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "Be the softest, most huggable person with this fuzzy Teddy Bear costume!",
+    "source": "Store",
+    "type": "Costume",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Costume, Store, Obtainable, Bear, Pink, Love, Animal",
+    "similar": ["titles/teddy-bear.json", "avatars/teddy-bear.json"]
+}

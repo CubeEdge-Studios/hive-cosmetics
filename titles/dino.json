@@ -1,0 +1,16 @@
+{
+    "id": "titles/dino.json",
+    "name": "\"The Rawrsome\" Title",
+    "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/953391c5-f878-4857-ae81-5e9c3d996425/dino_screenshot_2.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "Reverse history and become a cute dinosaur today! These majestic creatures will once again walk the earth.",
+    "source": "Store",
+    "type": "Title",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Title, Store, Obtainable, Dino, Jurassic, Green, Animal",
+    "similar": ["costumes/dino.json", "avatars/dino.json"]
+}

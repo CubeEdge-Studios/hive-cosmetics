@@ -1,0 +1,16 @@
+{
+    "id": "titles/royal.json",
+    "name": "\"The Royal\" Title",
+    "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/b814312a-846b-42fd-96bd-82a10984c1e6/royal_screenshot_2.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "It’s time to take the throne with these Royal King and Queen costumes!",
+    "source": "Store",
+    "type": "Title",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Title, Store, Obtainable, Royal, King, Queen, Crown",
+    "similar": ["costumes/royal.json", "avatars/royal.json"]
+}

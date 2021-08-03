@@ -1,0 +1,16 @@
+{
+    "id": "titles/unicorn.json",
+    "name": "\"The Rainbow\" Title",
+    "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/3ecb45d3-b232-45d6-b3fd-7bd03d82720e/unicorn_screenshot_2.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "Ride the rainbow with this marvelous, magical, mythical and majestic ensemble.",
+    "source": "Store",
+    "type": "Title",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Title, Store, Obtainable, Pink, Horn, Animal, Mythic",
+    "similar": ["costumes/unicorn.json", "titles/unicorn.json"]
+}

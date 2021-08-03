@@ -1,0 +1,16 @@
+{
+    "id": "avatars/donut.json",
+    "name": "Cute Donut Avatar",
+    "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/6ee3a97e-aeb7-464e-8f3c-fe1386448b11/donut_screenshot_1.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "Give into temptation and indulge your sweet tooth with this delicious Donut costume!",
+    "source": "Store",
+    "type": "Avatar",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Avatar, Store, Obtainable, Donut, Icing, Pink, Tasty",
+    "similar": ["costumes/donut.json", "titles/donut.json"]
+}

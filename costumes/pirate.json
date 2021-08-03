@@ -1,0 +1,16 @@
+{
+    "id": "costumes/pirate.json",
+    "name": "Pirate Costume",
+    "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/97af74cc-806b-4ccc-b995-e8c6dbde3f51/pirate_Thumbnail_0.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "Yarrrrr! Become the bravest pirate on the Hive. These costumes will guarantee you sail to victory.",
+    "source": "Store",
+    "type": "Costume",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Costume, Store, Obtainable, Pirate, Sea, Boat, Sail",
+    "similar": ["avatars/pirate.json", "titles/pirate.json"]
+}

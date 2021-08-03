@@ -1,0 +1,16 @@
+{
+    "id": "avatars/cupid.json",
+    "name": "Pink Bear Avatar",
+    "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/0469e71e-0f5e-477e-b9b1-a27834c63bc3/cupid_screenshot_1.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "Love is in the air! Lead your friends to victory with this Cupid Squad Leader costume!",
+    "source": "Store",
+    "type": "Avatar",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Avatar, Store, Obtainable, Cupid, Love, Cloud, Gold",
+    "similar": ["costumes/cupid.json", "titles/cupid.json"]
+}

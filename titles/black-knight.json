@@ -1,0 +1,16 @@
+{
+    "id": "titles/black-knight.json",
+    "name": "\"The Black Knight\" Title",
+    "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/94140581-7340-4446-a6e8-595f684a85c5/blackknight_screenshot_2.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "As the sun sets and the moon rises, the Black Knight emerges from the shadows, ready to protect anyone who may need him.",
+    "source": "Store",
+    "type": "Title",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Title, Store, Obtainable, Knight, Black, Fight, Castle",
+    "similar": ["costumes/black-knight.json", "avatars/black-knight.json"]
+}

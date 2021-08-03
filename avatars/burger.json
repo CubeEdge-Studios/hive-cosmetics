@@ -1,0 +1,16 @@
+{
+    "id": "avatars/burger.json",
+    "name": "Cute Burger Avatar",
+    "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/f9e5f8ca-4fee-4a23-81b3-83a1bd318b27/burger_screenshot_1.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "Order up! Get your hands on this juicy costume while you can!",
+    "source": "Store",
+    "type": "Avatar",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Avatar, Store, Obtainable, Burger, Food, Chef, Tasty",
+    "similar": ["costumes/burger.json", "titles/burger.json"]
+}

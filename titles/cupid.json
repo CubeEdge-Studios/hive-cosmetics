@@ -1,0 +1,16 @@
+{
+    "id": "titles/cupid.json",
+    "name": "\"The Squad leader\" Title",
+    "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/82ad8311-eb5e-41c2-8ad4-a62359f31d85/cupid_screenshot_2.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "Love is in the air! Lead your friends to victory with this Cupid Squad Leader costume!",
+    "source": "Store",
+    "type": "Title",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Title, Store, Obtainable, Cupid, Love, Cloud, Gold",
+    "similar": ["costumes/cupid.json", "avatars/cupid.json"]
+}

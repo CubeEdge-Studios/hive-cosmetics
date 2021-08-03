@@ -1,16 +1,16 @@
 {
-    "id": "avatars/",
+    "id": "",
     "name": "",
     "thumbnail": "",
     "price": {
-        "type": "Minecoins",
-        "amount": "310"
+        "type": "",
+        "amount": ""
     },
     "description": "",
-    "source": "Store",
+    "source": "",
     "type": "",
     "obtainable": true,
     "date": "N/A",
-    "keywords": "Avatar, Store, Obtainable, ",
-    "similar": ["costumes/-costume.json", "titles/-title.json"]
+    "keywords": "",
+    "similar": []
 }
