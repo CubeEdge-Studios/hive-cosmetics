@@ -43,5 +43,8 @@
     "titles/detective-sloth.json",
     "costumes/wolf.json",
     "avatars/wolf.json",
-    "titles/wolf.json"
+    "titles/wolf.json",
+    "costumes/clown.json",
+    "avatars/clown.json",
+    "titles/clown.json"
 ]

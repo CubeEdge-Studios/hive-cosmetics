@@ -1,0 +1,16 @@
+{
+    "id": "avatars/clown.json",
+    "name": "Clown Avatar",
+    "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/243b94ed-687d-4568-ac09-f54df6349e42/clown_Thumbnail_0.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "Roll up! Roll up! Get your tickets to the greatest show in town. The circus is here!",
+    "source": "Store",
+    "type": "Avatar",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Avatar, Store, Obtainable, Clown, Circus, Hat, Red Nose",
+    "similar": ["titles/clown.json", "costumes/clown.json"]
+}
