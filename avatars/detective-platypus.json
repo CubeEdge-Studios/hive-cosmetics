@@ -1,7 +1,7 @@
 {
     "id": "avatars/detective-platypus.json",
     "name": "Platypus Avatar",
-    "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/5828cee6-ed5d-4b8f-ac5a-29c2c675bb99/platypus_screenshot_1.jpg",
+    "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/08ebeacd-abcb-4db3-869c-125e5365bb68/playpus_Thumbnail_0.jpg",
     "price": {
         "type": "Minecoins",
         "amount": "310"
@@ -12,5 +12,8 @@
     "obtainable": true,
     "date": "N/A",
     "keywords": "Costume, Store, Obtainable, Platypus, Detective, Animal, Parry",
-    "similar": ["costumes/detective-platypus.json", "titles/detective-platypus.json"]
+    "similar": [
+        "costumes/detective-platypus.json",
+        "titles/detective-platypus.json"
+    ]
 }
