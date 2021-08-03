@@ -1,0 +1,16 @@
+{
+    "id": "titles/genie.json",
+    "name": "\"The Wish Maker\" Ttile",
+    "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/3dbadc11-759c-4965-b30d-edc2c1630811/genie_Thumbnail_0.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "It’s time to grant wishes with this mystical, magical and mysterious genie costume.",
+    "source": "Store",
+    "type": "Title",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Title, Store, Obtainable, Genie, Mystical, Magical, Mysterious",
+    "similar": ["avatars/genie.json", "costumes/genie.json"]
+}
