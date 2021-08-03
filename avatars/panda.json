@@ -1,0 +1,16 @@
+{
+    "id": "avatars/panda.json",
+    "name": "Panda Avatar",
+    "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/926ab73f-be12-45ae-8b57-360882887c65/panda_Thumbnail_0.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "Normally a panda just wants to sit down and eat bamboo… but not this panda! This panda is ready to defeat any and all minigames!",
+    "source": "Store",
+    "type": "Avatar",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Avatar, Store, Obtainable, Panda, Bamboo, Green, Jungle",
+    "similar": ["costumes/panda.json", "titles/panda.json"]
+}
