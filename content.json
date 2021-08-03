@@ -58,5 +58,8 @@
     "titles/ducky.json",
     "costumes/panda.json",
     "avatars/panda.json",
-    "titles/panda.json"
+    "titles/panda.json",
+    "costumes/lion.json",
+    "avatars/lion.json",
+    "titles/lion.json"
 ]
