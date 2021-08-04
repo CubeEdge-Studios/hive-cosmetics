@@ -7,7 +7,7 @@
     "source": "Store",
     "type": "Costume",
     "obtainable": true,
-    "data": "N/A",
+    "date": "N/A",
     "keywords": "Costume, Store, Obtainable, Piggy, Pink, Belly, Animal",
     "similar": ["avatars/piggy.json", "titles/piggy.json"]
 }

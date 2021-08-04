@@ -95,7 +95,7 @@ fetch(url)
             source: "Store",
             type: `${type}`,
             obtainable: true,
-            data: "N/A",
+            date: "N/A",
             keywords: `${type}, Store, Obtainable, ${capitalize(
                 shortName
             )}, ${threeKeywords}`,
