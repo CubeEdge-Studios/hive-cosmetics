@@ -1,0 +1,16 @@
+{
+    "id": "titles/parrot.json",
+    "name": "\"The Colorful\" Title",
+    "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/5828cee6-ed5d-4b8f-ac5a-29c2c675bb99/parrot_screenshot_1.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "Is it a bird? Is it a plane? Wait... that actually is a bird!",
+    "source": "Store",
+    "type": "Title",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Title, Store, Obtainable, Parrot, Bird, Red, Colourful",
+    "similar": ["costumes/parrot.json", "avatars/parrot.json"]
+}
