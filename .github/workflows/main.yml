@@ -7,5 +7,4 @@ jobs:
       - name: Fetch API Data 📦
         uses: JamesIves/fetch-api-data-action@releases/v1
         with:
-          ENDPOINT: https://hive.api.mfdcraft.net
-          CONFIGURATION: '{ "method": "GET" }'
+          ENDPOINT: https://hive.api.mfdcraft.net/api/refresh
