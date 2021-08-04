@@ -1,0 +1,13 @@
+{
+    "id": "avatars/piggy.json",
+    "name": "Dabbing Pig Avatar",
+    "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/af839988-2ebf-4667-ae3a-897bd205a9c6/piggy_Thumbnail_0.jpg",
+    "price": { "type": "Minecoins", "amount": "310" },
+    "description": "This little piggy didn't go the market, he went to The Hive!",
+    "source": "Store",
+    "type": "Avatar",
+    "obtainable": true,
+    "data": "N/A",
+    "keywords": "Avatar, Store, Obtainable, Piggy, Pink, Belly, Animal",
+    "similar": ["costumes/Piggy", "titles/Piggy"]
+}
