@@ -73,9 +73,9 @@ fetch(url)
         var getSimilar = () => {
             var similar = [];
 
-            similar.push(`avatars/${shortName}`);
-            similar.push(`costumes/${shortName}`);
-            similar.push(`titles/${shortName}`);
+            similar.push(`avatars/${shortName.toLowerCase()}.json`);
+            similar.push(`costumes/${shortName.toLowerCase()}.json`);
+            similar.push(`titles/${shortName.toLowerCase()}.json`);
 
             var filter = similar.filter(
                 (x) => !x.startsWith(`${type.toLowerCase()}s`)
