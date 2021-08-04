@@ -1,0 +1,16 @@
+{
+    "id": "costumes/parrot.json",
+    "name": "Parrot Costume",
+    "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/2344dd9b-65a9-411b-abc6-bd6c39835d7c/parrot_Thumbnail_0.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "Is it a bird? Is it a plane? Wait... that actually is a bird!",
+    "source": "Store",
+    "type": "Costume",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Costume, Store, Obtainable, Parrot, Bird, Red, Colourful",
+    "similar": ["avatars/parrot.json", "titles/parrot.json"]
+}

@@ -86,7 +86,13 @@
     "costumes/dolphin.json",
     "avatars/dolphin.json",
     "titles/dolphin.json",
+    "costumes/mr-grump.json",
+    "avatars/mr-grump.json",
+    "titles/mr-grump.json",
     "costumes/banana.json",
     "avatars/banana.json",
-    "titles/banana.json"
+    "titles/banana.json",
+    "costumes/parrot.json",
+    "avatars/parrot.json",
+    "titles/parrot.json"
 ]
