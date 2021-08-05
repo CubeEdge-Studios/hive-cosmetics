@@ -8,9 +8,9 @@
 */
 
 // Edit These
-var url = "https://mcstore.io/the-hive/punch-costume";
-var type = "Avatar";
-var threeKeywords = "Fox, Punch, Animal";
+var url = "https://mcstore.io/the-hive/chicken-costume";
+var type = "Title";
+var threeKeywords = "Bird, Feathers, Animal";
 // Edit These
 
 /*
@@ -101,6 +101,6 @@ fetch(url)
             )}, ${threeKeywords}`,
             similar: getSimilar(),
         };
-        var s = JSON.parse(JSON.stringify(output));
+        var s = JSON.stringify(output);
         console.log(s);
     });
