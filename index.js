@@ -8,14 +8,8 @@
 */
 
 // Edit These
-<<<<<<< HEAD
-var url = "https://mcstore.io/the-hive/punch-costume";
-var threeKeywords = "Fox, Punch, Animal";
-=======
-var url = "https://mcstore.io/the-hive/chicken-costume";
-var type = "Title";
-var threeKeywords = "Bird, Feathers, Animal";
->>>>>>> 8bad05204f2790ad8cfdbb6fa606b056a7525a9a
+var url = "https://mcstore.io/the-hive/television-costume";
+var threeKeywords = "Screen, Live, Broadcast";
 // Edit These
 
 /*

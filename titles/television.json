@@ -1,0 +1,13 @@
+{
+  "id": "titles/television.json",
+  "name": "\"Live from The Hive!\" Title",
+  "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/edd2b3dc-4575-467a-a687-4468e0bdaad0/television_Thumbnail_0.jpg",
+  "price": { "type": "Minecoins", "amount": "160" },
+  "description": "Breaking news! A new television costume has appeared on The Hive!",
+  "source": "Store",
+  "type": "Title",
+  "obtainable": true,
+  "date": "N/A",
+  "keywords": "Title, Store, Obtainable, Television, Screen, Live, Animal",
+  "similar": ["avatars/television.json", "costumes/television.json"]
+}
