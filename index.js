@@ -9,7 +9,6 @@
 
 // Edit These
 var url = "https://mcstore.io/the-hive/punch-costume";
-var type = "Avatar";
 var threeKeywords = "Fox, Punch, Animal";
 // Edit These
 
@@ -17,6 +16,9 @@ var threeKeywords = "Fox, Punch, Animal";
     CODE BELOW
 */
 
+var types = ["Avatar", "Costume", "Title"];
+
+const fs = require("fs");
 const fetch = require("node-fetch");
 const { default: parse } = require("node-html-parser");
 
@@ -33,74 +35,91 @@ const capitalize = (text) => {
 fetch(url)
     .then((res) => res.text())
     .then((body) => {
-        const root = parse(body);
-        var image = root.querySelectorAll("meta")[6].getAttribute("content");
-        var name = root.querySelectorAll("title")[0].innerText;
-        var longName = name.split("by")[0].trimEnd();
+        types.forEach((type) => {
+            const root = parse(body);
+            var image = root
+                .querySelectorAll("meta")[6]
+                .getAttribute("content");
+            var name = root.querySelectorAll("title")[0].innerText;
+            var longName = name.split("by")[0].trimEnd();
 
-        var shortName = name.split("Costume")[0].trimEnd();
+            var shortName = name.split("Costume")[0].trimEnd();
 
-        if (type == "Avatar") {
+            if (type == "Avatar") {
+                var description = root
+                    .querySelector("div.desc")
+                    .querySelector("p")
+                    .innerText.split(`+ Includes`)[2]
+                    .split('" avatar')[0]
+                    .slice(2);
+                var longName = `${description} Avatar`;
+            }
+
+            if (type == "Title") {
+                var description = root
+                    .querySelector("div.desc")
+                    .querySelector("p")
+                    .innerText.split(`+ Includes`)[1]
+                    .split('" hub title')[0]
+                    .slice(2);
+                var longName = `"${description}" Title`;
+            }
+
             var description = root
                 .querySelector("div.desc")
                 .querySelector("p")
-                .innerText.split(`+ Includes`)[2]
-                .split('" avatar')[0]
-                .slice(2);
-            var longName = `${description} Avatar`;
-        }
+                .innerText.split("Features")[0]
+                .trim();
+            var coins = root
+                .querySelector("div.coins")
+                .innerText.split("Minecoins")[0]
+                .trim();
 
-        if (type == "Title") {
-            var description = root
-                .querySelector("div.desc")
-                .querySelector("p")
-                .innerText.split(`+ Includes`)[1]
-                .split('" hub title')[0]
-                .slice(2);
-            var longName = `"${description}" Title`;
-        }
+            var getSimilar = () => {
+                var similar = [];
 
-        var description = root
-            .querySelector("div.desc")
-            .querySelector("p")
-            .innerText.split("Features")[0]
-            .trim();
-        var coins = root
-            .querySelector("div.coins")
-            .innerText.split("Minecoins")[0]
-            .trim();
+                similar.push(`avatars/${shortName.toLowerCase()}.json`);
+                similar.push(`costumes/${shortName.toLowerCase()}.json`);
+                similar.push(`titles/${shortName.toLowerCase()}.json`);
 
-        var getSimilar = () => {
-            var similar = [];
+                var filter = similar.filter(
+                    (x) => !x.startsWith(`${type.toLowerCase()}s`)
+                );
+                return filter;
+            };
 
-            similar.push(`avatars/${shortName.toLowerCase()}.json`);
-            similar.push(`costumes/${shortName.toLowerCase()}.json`);
-            similar.push(`titles/${shortName.toLowerCase()}.json`);
+            var output = {
+                id: `${type.toLowerCase()}s/${shortName.toLowerCase()}.json`,
+                name: `${longName}`,
+                thumbnail: `${image}`,
+                price: {
+                    type: "Minecoins",
+                    amount: `${coins}`,
+                },
+                description: `${description}`,
+                source: "Store",
+                type: `${type}`,
+                obtainable: true,
+                date: "N/A",
+                keywords: `${type}, Store, Obtainable, ${capitalize(
+                    shortName
+                )}, ${threeKeywords}`,
+                similar: getSimilar(),
+            };
 
-            var filter = similar.filter(
-                (x) => !x.startsWith(`${type.toLowerCase()}s`)
+            var s = JSON.stringify(output);
+            fs.writeFile(
+                `./${type.toLowerCase()}s/${shortName.toLowerCase()}.json`,
+                s,
+                () => {
+                    console.log(
+                        `Created ./${type.toLowerCase()}s/${shortName.toLowerCase()}.json`
+                    );
+                }
             );
-            return filter;
-        };
 
-        var output = {
-            id: `${type.toLowerCase()}s/${shortName.toLowerCase()}.json`,
-            name: `${longName}`,
-            thumbnail: `${image}`,
-            price: {
-                type: "Minecoins",
-                amount: `${coins}`,
-            },
-            description: `${description}`,
-            source: "Store",
-            type: `${type}`,
-            obtainable: true,
-            date: "N/A",
-            keywords: `${type}, Store, Obtainable, ${capitalize(
-                shortName
-            )}, ${threeKeywords}`,
-            similar: getSimilar(),
-        };
-        var s = JSON.stringify(output);
-        console.log(s);
+            var m = JSON.parse(fs.readFileSync("content.json").toString());
+            m.push(`${type.toLowerCase()}s/${shortName.toLowerCase()}.json`);
+            fs.writeFileSync("content.json", JSON.stringify(m));
+        });
     });
