@@ -1,0 +1,13 @@
+{
+    "id": "avatars/moo.json",
+    "name": "Dabbing Cow Avatar",
+    "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/4629dd2f-429f-4021-9469-705b0beedcdb/moo_Thumbnail_0.jpg",
+    "price": { "type": "Minecoins", "amount": "310" },
+    "description": "It’s time to be the scariest and deadliest animal on The Hive: a... cow?",
+    "source": "Store",
+    "type": "Avatar",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Avatar, Store, Obtainable, Moo, Animal, Spotted, Milk",
+    "similar": ["costumes/moo.json", "titles/moo.json"]
+}
