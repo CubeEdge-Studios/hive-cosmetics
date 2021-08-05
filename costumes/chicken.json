@@ -1,0 +1,13 @@
+{
+  "id": "costumes/chicken.json",
+  "name": "Chicken Costume",
+  "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/61f341fd-2ebf-4632-be39-bf008f7abd6f/chicken_Thumbnail_0.jpg",
+  "price": { "type": "Minecoins", "amount": "310" },
+  "description": "Cluck cluck! This might be the tastiest costume on The Hive.",
+  "source": "Store",
+  "type": "Costume",
+  "obtainable": true,
+  "date": "N/A",
+  "keywords": "Costume, Store, Obtainable, Chicken, Bird, Feathers, Animal",
+  "similar": ["avatars/chicken.json", "titles/chicken.json"]
+}
