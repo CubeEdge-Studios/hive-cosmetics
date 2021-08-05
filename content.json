@@ -112,5 +112,8 @@
     "titles/television.json",
     "avatars/chocolate.json",
     "costumes/chocolate.json",
-    "titles/chocolate.json"
+    "titles/chocolate.json",
+    "avatars/carrot.json",
+    "costumes/carrot.json",
+    "titles/carrot.json"
 ]
