@@ -1,0 +1,16 @@
+{
+    "id": "titles/golden-unicorn.json",
+    "name": "\"100% Pure Gold\"",
+    "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7/d4d8c62b-b52f-445d-a7c6-d55159b74d5f/unicorngoldedition_Thumbnail_0.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "What's more magical than a Unicorn? A GOLDEN UNICORN!",
+    "source": "Store",
+    "type": "Title",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Title, Store, Obtainable, Golden, Unicorn, Animal, Cute",
+    "similar": ["avatars/golden-unicorn.json", "costumes/golden-unicorn.json"]
+}
