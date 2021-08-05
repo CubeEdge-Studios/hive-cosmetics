@@ -1,0 +1,16 @@
+{
+    "id": "costumes/golden-burger.json",
+    "name": "Golden Burger Costume",
+    "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7/63c76458-03b1-42a8-aebb-3ad38b02098f/burgergold_Thumbnail_0.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "The delicious burger costume you know and love, now in an epic gold variant. It doesn’t get better than this!",
+    "source": "Store",
+    "type": "Costume",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Costume, Store, Obtainable, Burger, Golden, Tasty, Food",
+    "similar": ["avatars/golden-burger.json", "titles/golden-burger.json"]
+}
