@@ -1,0 +1,13 @@
+{
+    "id": "avatars/laser-shark.json",
+    "name": "Cool Shark Avatar",
+    "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/53acdbb6-7d9a-4d75-9561-cf54b7c48963/lasershark_Thumbnail_0.jpg",
+    "price": { "type": "Minecoins", "amount": "160" },
+    "description": "Nothing is scarier than a shark. WRONG! Introducing: sharks with lasers!",
+    "source": "Store",
+    "type": "Avatar",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Avatar, Store, Obtainable, Laser-shark, Teeth, Fish, Animal",
+    "similar": ["costumes/laser-shark.json", "titles/laser-shark.json"]
+}
