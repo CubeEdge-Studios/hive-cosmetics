@@ -1,24 +1,24 @@
 {
-  "name": "hive-cosmetics",
-  "version": "1.0.0",
-  "description": "**Welcome to the Hive Cosmetics Github Database**",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/UCDFiddes/hive-cosmetics.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/UCDFiddes/hive-cosmetics/issues"
-  },
-  "homepage": "https://github.com/UCDFiddes/hive-cosmetics#readme",
-  "dependencies": {
-    "node-fetch": "^2.6.1",
-    "node-html-parser": "^4.1.2"
-  }
+    "name": "hive-cosmetics",
+    "version": "1.0.0",
+    "description": "**Welcome to the Hive Cosmetics Github Database**",
+    "main": "generator.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/UCDFiddes/hive-cosmetics.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/UCDFiddes/hive-cosmetics/issues"
+    },
+    "homepage": "https://github.com/UCDFiddes/hive-cosmetics#readme",
+    "dependencies": {
+        "node-fetch": "^2.6.1",
+        "node-html-parser": "^4.1.2"
+    }
 }

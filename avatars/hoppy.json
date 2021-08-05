@@ -1,0 +1,13 @@
+{
+    "id": "avatars/hoppy.json",
+    "name": "Easter Bunny Avatar",
+    "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/df8db49d-f1cb-45f2-bafc-1a60c5c07de8/hoppy_Thumbnail_0.jpg",
+    "price": { "type": "Minecoins", "amount": "310" },
+    "description": "This fabulous costume will leave you jumping for joy!",
+    "source": "Store",
+    "type": "Avatar",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Avatar, Store, Obtainable, Hoppy, Bunny, Fur, Animal",
+    "similar": ["costumes/hoppy.json", "titles/hoppy.json"]
+}
