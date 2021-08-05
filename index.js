@@ -101,6 +101,6 @@ fetch(url)
             )}, ${threeKeywords}`,
             similar: getSimilar(),
         };
-        var s = JSON.parse(JSON.stringify(output));
+        var s = JSON.stringify(output);
         console.log(s);
     });
