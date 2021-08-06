@@ -1,1 +1,13 @@
-{"id":"costumes/snowy.json","name":"Snowy Costume","thumbnail":"https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/2cacf22d-dfa0-4070-9127-5d273fe77a24/snowy_Thumbnail_0.jpg","price":{"type":"Minecoins","amount":"310"},"description":"Snowy is cool. Snowy is cute. Snowy is your new best friend.","source":"Store","type":"Costume","obtainable":true,"date":"N/A","keywords":"Costume, Store, Obtainable, Snowy, Wolf, Cute, Animal","similar":["avatars/snowy.json","titles/snowy.json"]}
+{
+  "id": "costumes/snowy.json",
+  "name": "Snowy Costume",
+  "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/2cacf22d-dfa0-4070-9127-5d273fe77a24/snowy_Thumbnail_0.jpg",
+  "price": { "type": "Minecoins", "amount": "310" },
+  "description": "Snowy is cool. Snowy is cute. Snowy is your new best friend.",
+  "source": "Store",
+  "type": "Costume",
+  "obtainable": true,
+  "date": "N/A",
+  "keywords": "Costume, Store, Obtainable, Snowy, Fox, Cute, Animal",
+  "similar": ["avatars/snowy.json", "titles/snowy.json"]
+}
