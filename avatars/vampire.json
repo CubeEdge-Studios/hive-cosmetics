@@ -1,0 +1,13 @@
+{
+    "id": "avatars/vampire.json",
+    "name": "Dracula Avatar",
+    "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/82f48627-4661-4443-bb02-ea39cf605a33/vampires_Thumbnail_0.jpg",
+    "price": { "type": "Minecoins", "amount": "310" },
+    "description": "Mwah-ha-ha!",
+    "source": "Store",
+    "type": "Avatar",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Avatar, Store, Obtainable, Vampire, Scary, Dracular, Teeth",
+    "similar": ["costumes/vampire.json", "titles/vampire.json"]
+}
