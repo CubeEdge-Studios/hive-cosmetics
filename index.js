@@ -8,8 +8,8 @@
 */
 
 // Edit These
-var url = "https://mcstore.io/the-hive/television-costume";
-var threeKeywords = "Screen, Live, Broadcast";
+var url = "https://mcstore.io/the-hive/doge-costume";
+var threeKeywords = "Meme, Animal, Dog";
 // Edit These
 
 /*

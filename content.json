@@ -106,5 +106,8 @@
   "titles/chicken.json",
   "avatars/television.json",
   "costumes/television.json",
-  "titles/television.json"
+  "titles/television.json",
+  "avatars/doge.json",
+  "costumes/doge.json",
+  "titles/doge.json"
 ]
