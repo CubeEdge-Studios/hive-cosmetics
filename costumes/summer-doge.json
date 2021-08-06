@@ -1,0 +1,13 @@
+{
+    "id": "costumes/summer-doge",
+    "name": "Summer Doge",
+    "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/0d160893-55fc-4f2d-985c-df06f0259fd0/summerdoge_Thumbnail_0.jpg",
+    "price": { "type": "Minecoins", "amount": "160" },
+    "description": "It's time to go on vacation and fetch some sweet, sweet rays of sunshine!",
+    "source": "Store",
+    "type": "Costume",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Costume, Store, Obtainable, Summer-doge, Dog, Cute, Animal",
+    "similar": ["avatars/summer-doge", "titles/summer-doge"]
+}
