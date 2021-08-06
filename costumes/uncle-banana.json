@@ -1,0 +1,16 @@
+{
+    "id": "costumes/uncle-banana.json",
+    "name": "Uncle Banana Costume",
+    "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7/1e90632d-d6d1-4601-a0c4-d1060f28a66a/unclebanana_Thumbnail_0.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "160"
+    },
+    "description": "Celebrate the 4th of July in our most a-PEELING costume yet!",
+    "source": "Store",
+    "type": "Costume",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Costume, Store, Obtainable, Uncle, Banana, Food, 4th-Of-July",
+    "similar": []
+}
