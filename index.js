@@ -8,8 +8,8 @@
 */
 
 // Edit These
-var url = "https://mcstore.io/the-hive/skeleclaus-costume";
-var threeKeywords = "Skeleton, Santa, Winter";
+var url = "https://mcstore.io/the-hive/gremlin-costume";
+var threeKeywords = "Green, Christmas, Winter";
 // Edit These
 
 /*
