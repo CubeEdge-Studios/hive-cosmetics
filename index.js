@@ -8,8 +8,8 @@
 */
 
 // Edit These
-var url = "https://mcstore.io/the-hive/the-assassin-costume";
-var threeKeywords = "Assasinator, Murder, Kill";
+var url = "https://mcstore.io/the-hive/honk-costume";
+var threeKeywords = "Goose, Feathers, Animal";
 // Edit These
 
 /*
