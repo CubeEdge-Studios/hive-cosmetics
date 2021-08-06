@@ -8,8 +8,8 @@
 */
 
 // Edit These
-var url = "https://mcstore.io/the-hive/rufus-costume";
-var threeKeywords = "Dog, Pet, Animal";
+var url = "https://mcstore.io/the-hive/zebra-costume";
+var threeKeywords = "Black-White, Pet, Animal";
 // Edit These
 
 /*
