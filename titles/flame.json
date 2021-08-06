@@ -1,1 +1,13 @@
-{"id":"titles/flame.json","name":"\"Ahh, that's hot.\" Title","thumbnail":"https://mcstore.io/image/xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/c749c6d8-b320-4ea5-809c-fe868f8999d9/flame_Thumbnail_0.jpg","price":{"type":"Minecoins","amount":"310"},"description":"Please do not hug Flame, it will hurt.","source":"Store","type":"Title","obtainable":true,"date":"N/A","keywords":"Title, Store, Obtainable, Flame, Fire, Hot, Scary","similar":["avatars/flame.json","costumes/flame.json"]}
+{
+    "id": "titles/flame.json",
+    "name": "\"Ahh, thats hot.\" Title",
+    "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/c749c6d8-b320-4ea5-809c-fe868f8999d9/flame_Thumbnail_0.jpg",
+    "price": { "type": "Minecoins", "amount": "310" },
+    "description": "Please do not hug Flame, it will hurt.",
+    "source": "Store",
+    "type": "Title",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Title, Store, Obtainable, Flame, Fire, Hot, Scary",
+    "similar": ["avatars/flame.json", "costumes/flame.json"]
+}
