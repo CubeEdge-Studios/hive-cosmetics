@@ -8,8 +8,8 @@
 */
 
 // Edit These
-var url = "https://mcstore.io/the-hive/ice-king-costume";
-var threeKeywords = "Ice, Cold, Winter";
+var url = "https://mcstore.io/the-hive/ginger-cat-costume";
+var threeKeywords = "Cat, Animal, Ginger";
 // Edit These
 
 /*
@@ -78,9 +78,19 @@ fetch(url)
             var getSimilar = () => {
                 var similar = [];
 
-                similar.push(`avatars/${shortName.toLowerCase()}.json`);
-                similar.push(`costumes/${shortName.toLowerCase()}.json`);
-                similar.push(`titles/${shortName.toLowerCase()}.json`);
+                similar.push(
+                    `avatars/${shortName
+                        .toLowerCase()
+                        .replace(/\s/g, "-")}.json`
+                );
+                similar.push(
+                    `costumes/${shortName
+                        .toLowerCase()
+                        .replace(/\s/g, "-")}.json`
+                );
+                similar.push(
+                    `titles/${shortName.toLowerCase().replace(/\s/g, "-")}.json`
+                );
 
                 var filter = similar.filter(
                     (x) => !x.startsWith(`${type.toLowerCase()}s`)
@@ -89,7 +99,9 @@ fetch(url)
             };
 
             var output = {
-                id: `${type.toLowerCase()}s/${shortName.toLowerCase()}.json`,
+                id: `${type.toLowerCase()}s/${shortName
+                    .toLowerCase()
+                    .replace(/\s/g, "-")}.json`,
                 name: `${longName}`,
                 thumbnail: `${image}`,
                 price: {
@@ -102,24 +114,32 @@ fetch(url)
                 obtainable: true,
                 date: "N/A",
                 keywords: `${type}, Store, Obtainable, ${capitalize(
-                    shortName
+                    shortName.replace(/\s/g, "-")
                 )}, ${threeKeywords}`,
                 similar: getSimilar(),
             };
 
             var s = JSON.stringify(output);
             fs.writeFile(
-                `./${type.toLowerCase()}s/${shortName.toLowerCase()}.json`,
+                `./${type.toLowerCase()}s/${shortName
+                    .toLowerCase()
+                    .replace(/\s/g, "-")}.json`,
                 s,
                 () => {
                     console.log(
-                        `Created ./${type.toLowerCase()}s/${shortName.toLowerCase()}.json`
+                        `Created ./${type.toLowerCase()}s/${shortName
+                            .toLowerCase()
+                            .replace(/\s/g, "-")}.json`
                     );
                 }
             );
 
             var m = JSON.parse(fs.readFileSync("content.json").toString());
-            m.push(`${type.toLowerCase()}s/${shortName.toLowerCase()}.json`);
+            m.push(
+                `${type.toLowerCase()}s/${shortName
+                    .toLowerCase()
+                    .replace(/\s/g, "-")}.json`
+            );
             fs.writeFileSync("content.json", JSON.stringify(m));
         });
     });
