@@ -8,8 +8,8 @@
 */
 
 // Edit These
-var url = "https://mcstore.io/the-hive/ravage-costume";
-var threeKeywords = "Plague, Black, Infection";
+var url = "https://mcstore.io/the-hive/inferno-costume";
+var threeKeywords = "Fire, Hot, Dragon";
 // Edit These
 
 /*
