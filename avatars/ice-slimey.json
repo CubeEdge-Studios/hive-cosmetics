@@ -1,0 +1,16 @@
+{
+    "id": "avatars/ice-slimey.json",
+    "name": "Ice Cube Avatar",
+    "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/d67f2c7a-cac3-4938-aa89-0b8a9c475ca1/slimeyiceedition_Thumbnail_0.jpg",
+    "price": {
+        "type": "Minecoins",
+        "amount": "310"
+    },
+    "description": "It's Slimey, but cooler. Much cooler.",
+    "source": "Store",
+    "type": "Avatar",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Avatar, Store, Obtainable, Mob, Slimey, Icey, Cold",
+    "similar": ["costumes/ice-slimey.json", "titles/ice-slimey.json"]
+}
