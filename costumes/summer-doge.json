@@ -1,5 +1,5 @@
 {
-    "id": "costumes/summer-doge",
+    "id": "costumes/summer-doge.json",
     "name": "Summer Doge",
     "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/0d160893-55fc-4f2d-985c-df06f0259fd0/summerdoge_Thumbnail_0.jpg",
     "price": { "type": "Minecoins", "amount": "160" },
