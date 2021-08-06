@@ -1,1 +1,13 @@
-{"id":"costumes/doge.json","name":"Doge Costume","thumbnail":"https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7/e4713e24-372f-4967-a13e-9a2034177278/doge_Thumbnail_0.jpg","price":{"type":"Minecoins","amount":"160"},"description":"Much costume. Such style. Many value.","source":"Store","type":"Costume","obtainable":true,"date":"N/A","keywords":"Costume, Store, Obtainable, Doge, Meme, Animal, Dog","similar":["avatars/doge.json","titles/doge.json"]}
+{
+  "id": "costumes/doge.json",
+  "name": "Doge Costume",
+  "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7/e4713e24-372f-4967-a13e-9a2034177278/doge_Thumbnail_0.jpg",
+  "price": { "type": "Minecoins", "amount": "160" },
+  "description": "Much costume. Such style. Many value.",
+  "source": "Store",
+  "type": "Costume",
+  "obtainable": true,
+  "date": "N/A",
+  "keywords": "Costume, Store, Obtainable, Doge, Dog, Cute, Animal",
+  "similar": ["avatars/doge.json", "titles/doge.json"]
+}

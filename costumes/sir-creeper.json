@@ -1,0 +1,13 @@
+{
+    "id": "costumes/sir-creeper.json",
+    "name": "Sir Creeper Costume",
+    "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/3ed74fbb-9e01-4fc7-af83-8d5fde81cc44/sircreeper_Thumbnail_0.jpg",
+    "price": { "type": "Minecoins", "amount": "310" },
+    "description": "This is a creeper with SssSSsstyle!",
+    "source": "Store",
+    "type": "Costume",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Costume, Store, Obtainable, Sir-creeper, Explosion, Bomb, Animal",
+    "similar": ["avatars/sir-creeper.json", "titles/sir-creeper.json"]
+}

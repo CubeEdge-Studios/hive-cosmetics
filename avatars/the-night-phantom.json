@@ -1,0 +1,16 @@
+{
+    "id": "avatars/the-night-phantom.json",
+    "name": "Night Phantom Avatar",
+    "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7/9f366f6c-4428-418b-8355-d7751d210d18/nightphantom_Thumbnail_0.jpg",
+    "price": { "type": "Minecoins", "amount": "310" },
+    "description": "The Goddess of Night’s partner in crime has descended upon The Hive.",
+    "source": "Store",
+    "type": "Avatar",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Avatar, Store, Obtainable, The-night-phantom, Moonlight, Sky, Scary",
+    "similar": [
+        "costumes/the-night-phantom.json",
+        "titles/the-night-phantom.json"
+    ]
+}

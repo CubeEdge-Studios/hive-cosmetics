@@ -1,0 +1,13 @@
+{
+    "id": "costumes/the-traveler.json",
+    "name": "The Traveler Costume",
+    "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7/05608591-6fe2-4511-b8c7-e1d205a6452f/thetraveler_Thumbnail_0.jpg",
+    "price": { "type": "Minecoins", "amount": "310" },
+    "description": "Where are you from? they asked. The far lands, it replied.",
+    "source": "Store",
+    "type": "Costume",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Costume, Store, Obtainable, The-traveler, Time, Compass, Far-lands",
+    "similar": ["avatars/the-traveler.json", "titles/the-traveler.json"]
+}

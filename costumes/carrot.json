@@ -1,0 +1,13 @@
+{
+    "id": "costumes/carrot.json",
+    "name": "Carrot Costume",
+    "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/fada4d60-532e-4263-9458-7df92e716170/carrot_Thumbnail_0.jpg",
+    "price": { "type": "Minecoins", "amount": "310" },
+    "description": "Have you seen this brand new crunchy carrot costume? It's time to get healthy!",
+    "source": "Store",
+    "type": "Costume",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Costume, Store, Obtainable, Carrot, Food, Vegetable, Crunchy",
+    "similar": ["avatars/carrot.json", "titles/carrot.json"]
+}

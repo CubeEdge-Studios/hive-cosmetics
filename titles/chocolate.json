@@ -1,0 +1,13 @@
+{
+    "id": "titles/chocolate.json",
+    "name": "\"Omm nom nom\" Title",
+    "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/6ec302dd-96a2-45fd-aa7f-66bb383e9713/chocolate_Thumbnail_0.jpg",
+    "price": { "type": "Minecoins", "amount": "310" },
+    "description": "The perfect costume for anyone with a sweet tooth, just try not to get eaten!",
+    "source": "Store",
+    "type": "Title",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Title, Store, Obtainable, Chocolate, Food, Tasty, Eaten",
+    "similar": ["avatars/chocolate.json", "costumes/chocolate.json"]
+}
