@@ -1,0 +1,13 @@
+{
+  "id": "avatars/ice-king.json",
+  "name": "Beneath The Metal Avatar",
+  "thumbnail": "https://mcstore.io/image/xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7/60eb475e-9fdb-4a25-9d82-b6fd8df95604/iceking_Thumbnail_0.jpg",
+  "price": { "type": "Minecoins", "amount": "310" },
+  "description": "As winter draws near, the Ice King awakens.",
+  "source": "Store",
+  "type": "Avatar",
+  "obtainable": true,
+  "date": "N/A",
+  "keywords": "Avatar, Store, Obtainable, Ice-king, Ice, Cold, Winter",
+  "similar": ["costumes/ice-king.json", "titles/ice-king.json"]
+}
