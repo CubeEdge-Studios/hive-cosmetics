@@ -8,8 +8,8 @@
 */
 
 // Edit These
-var url = "https://mcstore.io/the-hive/gremlin-costume";
-var threeKeywords = "Green, Christmas, Winter";
+var url = "https://mcstore.io/the-hive/yeti-2019-costume";
+var threeKeywords = "Snow, Abominable, Cool";
 // Edit These
 
 /*
