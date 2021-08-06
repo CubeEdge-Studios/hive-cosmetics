@@ -8,8 +8,8 @@
 */
 
 // Edit These
-var url = "https://mcstore.io/the-hive/night-star-costume";
-var threeKeywords = "Alien, Star, Space";
+var url = "https://mcstore.io/the-hive/croc-costume";
+var threeKeywords = "Animal, Green, Water";
 // Edit These
 
 /*
