@@ -8,8 +8,8 @@
 */
 
 // Edit These
-var url = "https://mcstore.io/the-hive/ghosty-costume";
-var threeKeywords = "Ghost, Cute, Boo";
+var url = "https://mcstore.io/the-hive/nether-skull-costume";
+var threeKeywords = "Nether, Fire, Hot";
 // Edit These
 
 /*
