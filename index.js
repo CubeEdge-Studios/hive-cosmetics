@@ -49,7 +49,7 @@ fetch(url)
                 var description = root
                     .querySelector("div.desc")
                     .querySelector("p")
-                    .innerText.split(`+ Limited edition`)[2]
+                    .innerText.split(`+ Includes`)[2]
                     .split('" avatar')[0]
                     .slice(2);
                 var longName = `${description} Avatar`;
@@ -59,7 +59,7 @@ fetch(url)
                 var description = root
                     .querySelector("div.desc")
                     .querySelector("p")
-                    .innerText.split(`+ Limited edition`)[1]
+                    .innerText.split(`+ Includes`)[1]
                     .split('" hub title')[0]
                     .slice(2);
                 var longName = `"${description}" Title`;
