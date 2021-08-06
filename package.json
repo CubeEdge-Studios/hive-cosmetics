@@ -19,6 +19,7 @@
     "homepage": "https://github.com/UCDFiddes/hive-cosmetics#readme",
     "dependencies": {
         "node-fetch": "^2.6.1",
-        "node-html-parser": "^4.1.2"
+        "node-html-parser": "^4.1.2",
+        "ws": "^8.0.0"
     }
 }
