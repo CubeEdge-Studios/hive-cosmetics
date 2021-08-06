@@ -1,1 +1,13 @@
-{"id":"titles/summer-fox.json","name":"\"Let's dive right in!\" Title","thumbnail":"https://mcstore.io/image/xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/2428c1d4-7fe2-4bff-9340-d73d5de6f099/summerfox_Thumbnail_0.jpg","price":{"type":"Minecoins","amount":"310"},"description":"What says summer more than a fox with a floaty duck and a snorkel? Yeah, NOTHING!","source":"Store","type":"Title","obtainable":true,"date":"N/A","keywords":"Title, Store, Obtainable, Summer-fox, Ring, Snorkel, Animal","similar":["avatars/summer-fox.json","costumes/summer-fox.json"]}
+{
+    "id": "titles/summer-fox.json",
+    "name": "\"Lets dive right in!\" Title",
+    "thumbnail": "https://mcstore.io/image/xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/2428c1d4-7fe2-4bff-9340-d73d5de6f099/summerfox_Thumbnail_0.jpg",
+    "price": { "type": "Minecoins", "amount": "310" },
+    "description": "What says summer more than a fox with a floaty duck and a snorkel? Yeah, NOTHING!",
+    "source": "Store",
+    "type": "Title",
+    "obtainable": true,
+    "date": "N/A",
+    "keywords": "Title, Store, Obtainable, Summer-fox, Ring, Snorkel, Animal",
+    "similar": ["avatars/summer-fox.json", "costumes/summer-fox.json"]
+}
