@@ -8,8 +8,8 @@
 */
 
 // Edit These
-var url = "https://mcstore.io/the-hive/doge-costume";
-var threeKeywords = "Meme, Animal, Dog";
+var url = "https://mcstore.io/the-hive/ravage-costume";
+var threeKeywords = "Plague, Black, Infection";
 // Edit These
 
 /*
