@@ -8,8 +8,8 @@
 */
 
 // Edit These
-var url = "https://mcstore.io/the-hive/anime-teen-costumes";
-var threeKeywords = "Anime, uwu, Teens";
+var url = "https://mcstore.io/the-hive/reindeer-costume";
+var threeKeywords = "Animal, Santa, Winter";
 // Edit These
 
 /*
@@ -49,7 +49,7 @@ fetch(url)
                 var description = root
                     .querySelector("div.desc")
                     .querySelector("p")
-                    .innerText.split(`+ Includes`)[2]
+                    .innerText.split(`+ Limited edition`)[2]
                     .split('" avatar')[0]
                     .slice(2);
                 var longName = `${description} Avatar`;
@@ -59,7 +59,7 @@ fetch(url)
                 var description = root
                     .querySelector("div.desc")
                     .querySelector("p")
-                    .innerText.split(`+ Includes`)[1]
+                    .innerText.split(`+ Limited edition`)[1]
                     .split('" hub title')[0]
                     .slice(2);
                 var longName = `"${description}" Title`;
